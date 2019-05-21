@@ -1,6 +1,6 @@
 # W22.Protein.Protein.Interactions
 
-This is the home page for the Collaboratury Workshop, Introduction to Protein Protein Interactions and Cytoscape.
+This is the home page for the Collaboratory Workshop, Introduction to Protein Protein Interactions and Cytoscape.
 
 ## Slide Handouts and Schedule
 
