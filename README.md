@@ -43,7 +43,7 @@ This is the home page for the Collaboratory Workshop, Introduction to Protein Pr
 
       * MIF to SIF conversion
    
-* **Day 3** [[Handout](materials/handouts/PPI_201905_DayIIIH.pdf)]::
+* **Day 3** [[Handout](materials/handouts/PPI_201905_DayIIIH.pdf)]:
 
   * Introduction to Cytoscape
 
