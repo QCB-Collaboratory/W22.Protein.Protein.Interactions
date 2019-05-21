@@ -4,7 +4,7 @@ This is the home page for the Collaboratury Workshop, Introduction to Protein Pr
 
 ## Slide Handouts and Schedule
 
-* **Day 1** [Handout] (materials/handouts/PPI_201905_DayIH.pdf) :
+* **Day 1** [Handout](materials/handouts/PPI_201905_DayIH.pdf) :
 
   * Experimental Methods
 
@@ -26,7 +26,7 @@ This is the home page for the Collaboratury Workshop, Introduction to Protein Pr
           * Integrators
           * Web Services
 
-* **Day 2** [Handout] (materials/handouts/PPI_201905_DayIIH.pdf) :
+* **Day 2** [Handout](materials/handouts/PPI_201905_DayIIH.pdf) :
 
   * Interaction Data Processing
   
