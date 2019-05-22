@@ -1,5 +1,8 @@
 import sys
-sys.path.insert( 0, "/cluster1/opt/python/lib/")
+sys.path.insert( 0, "./pylib/")  
+
+# Note: to run from any directory use full path when pointing sys.path to
+#       pylib above.    
 
 ###############################################################################
 #  mif254 to sif/property file converter
@@ -11,7 +14,7 @@ sys.path.insert( 0, "/cluster1/opt/python/lib/")
 #         For simplicty mif25 library converts mif file into a generic, nested
 #         list/dictionary data structure. More mature implementation might/
 #         should define separate classes for participants(proteins), features, 
-#         cv terms, interactions.      
+#         cv terms, interactions.         
 #
 ###############################################################################
 
@@ -28,7 +31,7 @@ args = parser.parse_args()
 
 # default input file
 
-file='ATP/mif25/29650704.mif25'
+file='../../ATP/mif25/29650704.mif25'
 
 if args.file != "":
     file = args.file
@@ -60,15 +63,18 @@ for int_id in mif["i11n"].keys():
     llist = []
     xlist = []
 
+
     # prepare a list of participants
 
     for part in mif["i11n"][int_id]["p11t"]:        
 
-        alist = part["i10r"]["alias"];
-        gname = ""
-        for a in alist:
-            if a['type'] == 'gene name':
-                gname = a['value']
+        gname = ""       
+        if 'alias' in part["i10r"]:
+            alist = part["i10r"]["alias"];
+
+            for a in alist:
+                if a['type'] == 'gene name':
+                    gname = a['value']
                 
         plist.append( {"erole":part["erole"]["label"], 
                        "label":part["i10r"]["label"],
