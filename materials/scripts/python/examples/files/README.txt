@@ -21,3 +21,14 @@ NCBI:
 IMEx/IntAct site:
    ftp://ftp.ebi.ac.uk/pub/databases/intact/current/
    ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/pmid/2019/10508784.xml
+
+   PSICQUIC
+      http://www.ebi.ac.uk/Tools/webservices/psicquic/imex/webservices/current/search/query/P60010?format=xml25
+      http://www.ebi.ac.uk/Tools/webservices/psicquic/imex/webservices/current/search/interaction/IM-24610-6?format=xml25
+
+PSICQUIC:
+
+    PSICQUIC in R: https://bioconductor.org/packages/release/bioc/vignettes/PSICQUIC/.../PSICQUIC.pdf
+
+
+
