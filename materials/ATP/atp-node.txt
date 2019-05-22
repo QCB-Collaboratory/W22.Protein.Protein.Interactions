@@ -1,0 +1,14 @@
+atpb_yeast 	2	P00830	1
+atp6_yeast 	1	P00854	
+atp8_yeast 	1	P00856	1
+atpf_yeast 	2	P05626	1
+atpa_yeast 	2	P07251	1
+atpo_yeast 	2	P09457	1
+atp5e_yeast 	2	P21306	1
+atp7_yeast 	2	P30902	1
+atpg_yeast 	2	P38077	1
+atp9_yeast 	1	P61829	1
+atp18_yeast 	2	P81450	
+atpk_yeast 	2	Q06405	1
+atpd_yeast 	2	Q12165	1
+atp14_yeast 	2	Q12349	

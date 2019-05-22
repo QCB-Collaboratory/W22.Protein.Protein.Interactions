@@ -1,0 +1,1 @@
+atpf_yeast atpd_yeast atpb_yeast atpo_yeast atp6_yeast atpa_yeast atp14_yeast atp9_yeast atp18_yeast atp7_yeast atpg_yeast atpk_yeast atp5e_yeast atp8_yeast
