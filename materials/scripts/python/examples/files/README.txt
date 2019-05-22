@@ -28,7 +28,8 @@ IMEx/IntAct site:
 
 PSICQUIC:
 
+    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3977660/
     PSICQUIC in R: https://bioconductor.org/packages/release/bioc/vignettes/PSICQUIC/.../PSICQUIC.pdf
-
+    
 
 
