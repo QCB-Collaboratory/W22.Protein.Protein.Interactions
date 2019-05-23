@@ -2,7 +2,7 @@ import sys
 sys.path.insert( 0, "./pylib/")  
 
 # Note: to run from any directory use full path when pointing sys.path to
-#       pylib above.    
+#       pylib directory above.    
 
 ###############################################################################
 #  mif254 to sif/property file converter
@@ -23,10 +23,10 @@ from qcb import mif25
 
 parser = argparse.ArgumentParser(description='mif2simple')
 parser.add_argument( '--file',  dest="file", type=str, required=False,
-                    default="", help='Input MIF(v254) file.')
+                     default="", help='Input MIF(v254) file.')
 
-parser.add_argument('--out',  dest="out", type=str, required=False,
-                    default="sif", help='Output type (default sif)')
+parser.add_argument( '--out',  dest="out", type=str, required=False,
+                     default="sif", help='Output type (default sif)')
 args = parser.parse_args()
 
 # default input file
