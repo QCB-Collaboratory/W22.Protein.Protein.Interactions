@@ -4,7 +4,7 @@ package/library. The package is available through pip:
 
 ```pip3 install <...>``` 
 
-Its home page is located on github:  https://github.com/IMExConsortium/pymex
+```pymex``` home page is located on github:  https://github.com/IMExConsortium/pymex
 
 
 
