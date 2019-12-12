@@ -2,7 +2,7 @@
 
 This is the home page for the Collaboratory Workshop, Introduction to Protein Protein Interactions and Cytoscape.
 
-## Slide Handouts and Schedule
+## Slide Handouts and Schedule [[Legacy Handounts](materials/handouts/legacy)]
 
 * **Day 1** [[Handout](materials/handouts/PPI_201905_DayIH.pdf)]:
 
@@ -16,8 +16,7 @@ This is the home page for the Collaboratory Workshop, Introduction to Protein Pr
           * Binary expansion
 
       * Database Record Formats
-          * PSI-MI MIF
-          * PSI-MI MITAB
+          * PSI-MI MIF/MITAB
           * BioGRID 
           * Cytoscape (.sif)
 
@@ -60,6 +59,4 @@ This is the home page for the Collaboratory Workshop, Introduction to Protein Pr
           * Network Annotation
     
       * Basic Network Visualization
-          * Expression data
-          * Functional enrichment
-
+          * Expression data overlay
