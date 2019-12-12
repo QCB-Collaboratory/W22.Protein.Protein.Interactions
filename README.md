@@ -2,7 +2,7 @@
 
 This is the home page for the Collaboratory Workshop, Introduction to Protein Protein Interactions and Cytoscape.
 
-## Slide Handouts and Schedule [[Legacy Handounts](materials/handouts/legacy)]
+## Slide Handouts and Schedule [[Legacy Handouts](materials/handouts/legacy)]
 
 * **Day 1** [[Handout](materials/handouts/PPI_201905_DayIH.pdf)]:
 
