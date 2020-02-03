@@ -4,7 +4,7 @@ This is the home page for the Collaboratory Workshop, Introduction to Protein Pr
 
 ## Slide Handouts and Schedule [[Legacy Handouts](materials/handouts/legacy)]
 
-* **Day 1** [[Handout](materials/handouts/PPI_201905_DayIH.pdf)]:
+* **Day 1** [[Handout](materials/handouts/PPI_202002_DayIH.pdf)]:
 
   * Experimental Methods
 
@@ -25,7 +25,7 @@ This is the home page for the Collaboratory Workshop, Introduction to Protein Pr
           * Integrators
           * Web Services
 
-* **Day 2** [[Handout](materials/handouts/PPI_201905_DayIIH.pdf)]:
+* **Day 2** [[Handout](materials/handouts/PPI_202002_DayIIH.pdf)]:
 
   * Interaction Data Processing
   
@@ -59,4 +59,5 @@ This is the home page for the Collaboratory Workshop, Introduction to Protein Pr
           * Network Annotation
     
       * Basic Network Visualization
-          * Expression data overlay
+          * Node/Edge Attribute Mapping 
+          
