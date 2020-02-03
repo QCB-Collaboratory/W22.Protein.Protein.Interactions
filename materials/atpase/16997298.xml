@@ -1,0 +1,1741 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entrySet minorVersion="4" version="5" level="2" xsi:schemaLocation="http://psi.hupo.org/mi/mif http://psidev.sourceforge.net/mi/rel25/src/MIF254.xsd" xmlns="http://psi.hupo.org/mi/mif" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <entry>
+        <source releaseDate="2013-08-30+01:00">
+            <names>
+                <shortLabel>MINT</shortLabel>
+                <fullName>MINT, Dpt of Biology, University of Rome Tor Vergata</fullName>
+            </names>
+            <xref>
+                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0471" dbAc="MI:0488" db="psi-mi"/>
+                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1579228" dbAc="MI:0469" db="intact"/>
+            </xref>
+            <attributeList>
+                <attribute nameAc="MI:0614" name="url">http://mint.bio.uniroma2.it/mint</attribute>
+                <attribute name="url">http://mint.bio.uniroma2.it/mint</attribute>
+            </attributeList>
+        </source>
+        <experimentList>
+            <experimentDescription id="549053">
+                <names>
+                    <shortLabel>wurm-2006-1</shortLabel>
+                    <fullName>Differential protein distributions define two sub-compartments of the mitochondrial inner membrane in yeast.</fullName>
+                </names>
+                <bibref>
+                    <xref>
+                        <primaryRef refTypeAc="MI:0358" refType="primary-reference" id="16997298" dbAc="MI:0446" db="pubmed"/>
+                    </xref>
+                </bibref>
+                <xref>
+                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374690" dbAc="MI:0471" db="mint"/>
+                    <secondaryRef refTypeAc="MI:0360" refType="secondary-ac" id="16997298" dbAc="MI:0446" db="pubmed"/>
+                    <secondaryRef refTypeAc="MI:0360" refType="secondary-ac" id="10.1016/j.febslet.2006.09.012" dbAc="MI:0574" db="doi"/>
+                    <secondaryRef refTypeAc="MI:0662" refType="imex-primary" id="IM-11451" dbAc="MI:0670" db="imex"/>
+                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994111" dbAc="MI:0469" db="intact"/>
+                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="MINT-5219141" dbAc="MI:0471" db="mint"/>
+                </xref>
+                <hostOrganismList>
+                    <hostOrganism ncbiTaxId="559292">
+                        <names>
+                            <shortLabel>yeast</shortLabel>
+                            <fullName>Saccharomyces cerevisiae (strain ATCC 204508 / S288c)</fullName>
+                        </names>
+                    </hostOrganism>
+                </hostOrganismList>
+                <interactionDetectionMethod>
+                    <names>
+                        <shortLabel>solution sedimentati</shortLabel>
+                        <fullName>cosedimentation in solution</fullName>
+                    </names>
+                    <xref>
+                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0028" dbAc="MI:0488" db="psi-mi"/>
+                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1041" dbAc="MI:0469" db="intact"/>
+                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="10410796" dbAc="MI:0446" db="pubmed"/>
+                    </xref>
+                </interactionDetectionMethod>
+                <participantIdentificationMethod>
+                    <names>
+                        <shortLabel>predetermined</shortLabel>
+                        <fullName>predetermined participant</fullName>
+                    </names>
+                    <xref>
+                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0396" dbAc="MI:0488" db="psi-mi"/>
+                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1465" dbAc="MI:0469" db="intact"/>
+                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                    </xref>
+                </participantIdentificationMethod>
+                <attributeList>
+                    <attribute nameAc="MI:0636" name="author-list">Wurm CA., Jakobs S.</attribute>
+                    <attribute nameAc="MI:0885" name="journal">FEBS Lett. (0014-5793)</attribute>
+                    <attribute nameAc="MI:0886" name="publication year">2006</attribute>
+                    <attribute name="imex-exported">2009-01-08</attribute>
+                    <attribute nameAc="MI:0957" name="full coverage">Only protein-protein interactions</attribute>
+                    <attribute nameAc="MI:0959" name="imex curation"/>
+                    <attribute nameAc="MI:0955" name="curation depth">imex curation</attribute>
+                </attributeList>
+            </experimentDescription>
+        </experimentList>
+        <interactorList>
+            <interactor id="549054">
+                <names>
+                    <shortLabel>tim44_yeast</shortLabel>
+                    <fullName>Mitochondrial import inner membrane translocase subunit TIM44</fullName>
+                    <alias type="gene name synonym" typeAc="MI:0302">ISP45</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">MIM44</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">MPI1</alias>
+                    <alias type="locus name" typeAc="MI:0305">YIL022W</alias>
+                    <alias type="gene name" typeAc="MI:0301">TIM44</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">Mitochondrial protein import protein 1</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">Inner membrane import site protein 45</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">Membrane import machinery protein MIM44</alias>
+                </names>
+                <xref>
+                    <primaryRef refTypeAc="MI:0356" refType="identity" version="SP_66" id="Q01852" dbAc="MI:0486" db="uniprotkb"/>
+                    <secondaryRef id="GO:0016021" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="IPR017303" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="GO:0051087" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="NP_012242.1" dbAc="MI:0481" db="refseq"/>
+                    <secondaryRef id="GO:0030150" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="GO:0015450" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="S000001284" dbAc="MI:0484" db="sgd"/>
+                    <secondaryRef id="GO:0005524" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="GO:0030674" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="REACT_85873" dbAc="MI:0467" db="reactome"/>
+                    <secondaryRef id="IPR007379" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="YIL022w" dbAc="MI:0464" db="cygd"/>
+                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-9141" dbAc="MI:0469" db="intact"/>
+                    <secondaryRef id="3QK9" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="2FXT" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="REACT_118590" dbAc="MI:0467" db="reactome"/>
+                    <secondaryRef id="GO:0001405" dbAc="MI:0448" db="go"/>
+                    <secondaryRef refTypeAc="MI:0360" refType="secondary-ac" version="SP_99" id="D6VVQ7" dbAc="MI:0486" db="uniprotkb"/>
+                </xref>
+                <interactorType>
+                    <names>
+                        <shortLabel>protein</shortLabel>
+                        <fullName>protein</fullName>
+                    </names>
+                    <xref>
+                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0326" dbAc="MI:0488" db="psi-mi"/>
+                        <secondaryRef refTypeAc="MI:0361" refType="see-also" id="SO:0000358" dbAc="MI:0601" db="so"/>
+                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-619654" dbAc="MI:0469" db="intact"/>
+                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                    </xref>
+                </interactorType>
+                <organism ncbiTaxId="559292">
+                    <names>
+                        <shortLabel>yeast</shortLabel>
+                        <fullName>Saccharomyces cerevisiae (strain ATCC 204508 / S288c)</fullName>
+                    </names>
+                </organism>
+                <sequence>MHRSTFIRTSGTSSRTLTARYRSQYTGLLVARVLFSTSTTRAQGGNPRSPLQIFRDTFKKEWEKSQELQENIKTLQDASGKLGESEAYKKAREAYLKAQRGSTIVGKTLKKTGETMEHIATKAWESELGKNTRKAAAATAKKLDESFEPVRQTKIYKEVSEVIDDGESSRYGGFITKEQRRLKRERDLASGKRHRAVKSNEDAGTAVVATNIESKESFGKKVEDFKEKTVVGRSIQSLKNKLWDESENPLIVVMRKITNKVGGFFAETESSRVYSQFKLMDPTFSNESFTRHLREYIVPEILEAYVKGDVKVLKKWFSEAPFNVYAAQQKIFKEQDVYADGRILDIRGVEIVSAKLLAPQDIPVLVVGCRAQEINLYRKKKTGEIAAGDEANILMSSYAMVFTRDPEQIDDDETEGWKILEFVRGGSRQFT</sequence>
+            </interactor>
+            <interactor id="549055">
+                <names>
+                    <shortLabel>qcr2_yeast</shortLabel>
+                    <fullName>Cytochrome b-c1 complex subunit 2, mitochondrial</fullName>
+                    <alias type="gene name synonym" typeAc="MI:0302">Ubiquinol-cytochrome-c reductase complex core protein 2</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">Core protein II</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">Complex III subunit 2</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">COR2</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">UCR2</alias>
+                    <alias type="orf name" typeAc="MI:0306">P9677.6</alias>
+                    <alias type="locus name" typeAc="MI:0305">YPR191W</alias>
+                    <alias type="gene name" typeAc="MI:0301">QCR2</alias>
+                </names>
+                <xref>
+                    <primaryRef refTypeAc="MI:0356" refType="identity" version="SP_103" id="P07257" dbAc="MI:0486" db="uniprotkb"/>
+                    <secondaryRef id="GO:0016021" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="GO:0009060" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="IPR011249" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="GO:0006122" dbAc="MI:0448" db="go"/>
+                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-19929" dbAc="MI:0469" db="intact"/>
+                    <secondaryRef id="1P84" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="3CXH" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="IPR001431" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="GO:0006508" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="1KB9" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="S000006395" dbAc="MI:0484" db="sgd"/>
+                    <secondaryRef id="GO:0030061" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="IPR007863" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="GO:0046872" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="GO:0004222" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="YPR191w" dbAc="MI:0464" db="cygd"/>
+                    <secondaryRef id="IPR011765" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="2IBZ" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="1KYO" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="NP_015517.1" dbAc="MI:0481" db="refseq"/>
+                    <secondaryRef id="3CX5" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="GO:0005750" dbAc="MI:0448" db="go"/>
+                    <secondaryRef refTypeAc="MI:0360" refType="secondary-ac" version="SP_125" id="D6W4J1" dbAc="MI:0486" db="uniprotkb"/>
+                    <secondaryRef id="IPR011237" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="1EZV" dbAc="MI:0460" db="rcsb pdb"/>
+                </xref>
+                <interactorType>
+                    <names>
+                        <shortLabel>protein</shortLabel>
+                        <fullName>protein</fullName>
+                    </names>
+                    <xref>
+                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0326" dbAc="MI:0488" db="psi-mi"/>
+                        <secondaryRef refTypeAc="MI:0361" refType="see-also" id="SO:0000358" dbAc="MI:0601" db="so"/>
+                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-619654" dbAc="MI:0469" db="intact"/>
+                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                    </xref>
+                </interactorType>
+                <organism ncbiTaxId="559292">
+                    <names>
+                        <shortLabel>yeast</shortLabel>
+                        <fullName>Saccharomyces cerevisiae (strain ATCC 204508 / S288c)</fullName>
+                    </names>
+                </organism>
+                <sequence>MLSAARLQFAQGSVRRLTVSARDAPTKISTLAVKVHGGSRYATKDGVAHLLNRFNFQNTNTRSALKLVRESELLGGTFKSTLDREYITLKATFLKDDLPYYVNALADVLYKTAFKPHELTESVLPAARYDYAVAEQCPVKSAEDQLYAITFRKGLGNPLLYDGVERVSLQDIKDFADKVYTKENLEVSGENVVEADLKRFVDESLLSTLPAGKSLVSKSEPKFFLGEENRVRFIGDSVAAIGIPVNKASLAQYEVLANYLTSALSELSGLISSAKLDKFTDGGLFTLFVRDQDSAVVSSNIKKIVADLKKGKDLSPAINYTKLKNAVQNESVSSPIELNFDAVKDFKLGKFNYVAVGDVSNLPYLDEL</sequence>
+            </interactor>
+            <interactor id="549056">
+                <names>
+                    <shortLabel>atpb_yeast</shortLabel>
+                    <fullName>ATP synthase subunit beta, mitochondrial</fullName>
+                    <alias type="gene name" typeAc="MI:0301">ATP2</alias>
+                    <alias type="orf name" typeAc="MI:0306">J2041</alias>
+                    <alias type="locus name" typeAc="MI:0305">YJR121W</alias>
+                </names>
+                <xref>
+                    <primaryRef refTypeAc="MI:0356" refType="identity" version="SP_85" id="P00830" dbAc="MI:0486" db="uniprotkb"/>
+                    <secondaryRef id="GO:0016021" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="IPR024034" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="4B2Q" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="IPR020003" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="3FKS" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="IPR027417" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="3OEE" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="3OFN" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="YJR121w" dbAc="MI:0464" db="cygd"/>
+                    <secondaryRef id="NP_012655.3" dbAc="MI:0481" db="refseq"/>
+                    <secondaryRef id="GO:0046933" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="GO:0046961" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="GO:0005758" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="IPR000793" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="GO:0005829" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="2XOK" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="IPR005722" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="2WPD" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="REACT_118590" dbAc="MI:0467" db="reactome"/>
+                    <secondaryRef id="3OE7" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-3242" dbAc="MI:0469" db="intact"/>
+                    <secondaryRef id="3ZRY" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="2HLD" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="IPR003593" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="S000003882" dbAc="MI:0484" db="sgd"/>
+                    <secondaryRef id="3ZIA" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="IPR000194" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="GO:0015986" dbAc="MI:0448" db="go"/>
+                    <secondaryRef refTypeAc="MI:0360" refType="secondary-ac" version="SP_121" id="D6VWU0" dbAc="MI:0486" db="uniprotkb"/>
+                    <secondaryRef id="GO:0005754" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="GO:0005524" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="REACT_85873" dbAc="MI:0467" db="reactome"/>
+                    <secondaryRef id="3OEH" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="GO:0015991" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="IPR004100" dbAc="MI:0449" db="interpro"/>
+                </xref>
+                <interactorType>
+                    <names>
+                        <shortLabel>protein</shortLabel>
+                        <fullName>protein</fullName>
+                    </names>
+                    <xref>
+                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0326" dbAc="MI:0488" db="psi-mi"/>
+                        <secondaryRef refTypeAc="MI:0361" refType="see-also" id="SO:0000358" dbAc="MI:0601" db="so"/>
+                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-619654" dbAc="MI:0469" db="intact"/>
+                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                    </xref>
+                </interactorType>
+                <organism ncbiTaxId="559292">
+                    <names>
+                        <shortLabel>yeast</shortLabel>
+                        <fullName>Saccharomyces cerevisiae (strain ATCC 204508 / S288c)</fullName>
+                    </names>
+                </organism>
+                <sequence>MVLPRLYTATSRAAFKAAKQSAPLLSTSWKRCMASAAQSTPITGKVTAVIGAIVDVHFEQSELPAILNALEIKTPQGKLVLEVAQHLGENTVRTIAMDGTEGLVRGEKVLDTGGPISVPVGRETLGRIINVIGEPIDERGPIKSKLRKPIHADPPSFAEQSTSAEILETGIKVVDLLAPYARGGKIGLFGGAGVGKTVFIQELINNIAKAHGGFSVFTGVGERTREGNDLYREMKETGVINLEGESKVALVFGQMNEPPGARARVALTGLTIAEYFRDEEGQDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGLLQERITTTKKGSVTSVQAVYVPADDLTDPAPATTFAHLDATTVLSRGISELGIYPAVDPLDSKSRLLDAAVVGQEHYDVASKVQETLQTYKSLQDIIAILGMDELSEQDKLTVERARKIQRFLSQPFAVAEVFTGIPGKLVRLKDTVASFKAVLEGKYDNIPEHAFYMVGGIEDVVAKAEKLAAEAN</sequence>
+            </interactor>
+            <interactor id="549057">
+                <names>
+                    <shortLabel>pam17_yeast</shortLabel>
+                    <fullName>Presequence translocated-associated motor subunit PAM17, mitochondrial</fullName>
+                    <alias type="locus name" typeAc="MI:0305">YKR065C</alias>
+                    <alias type="gene name" typeAc="MI:0301">PAM17</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">FMP18</alias>
+                </names>
+                <xref>
+                    <primaryRef refTypeAc="MI:0356" refType="identity" version="SP_42" id="P36147" dbAc="MI:0486" db="uniprotkb"/>
+                    <secondaryRef id="GO:0016021" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="YKR065c" dbAc="MI:0464" db="cygd"/>
+                    <secondaryRef id="REACT_85873" dbAc="MI:0467" db="reactome"/>
+                    <secondaryRef id="NP_012991.3" dbAc="MI:0481" db="refseq"/>
+                    <secondaryRef id="IPR013875" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="S000001773" dbAc="MI:0484" db="sgd"/>
+                    <secondaryRef refTypeAc="MI:0360" refType="secondary-ac" version="SP_67" id="D6VXC6" dbAc="MI:0486" db="uniprotkb"/>
+                    <secondaryRef id="GO:0030150" dbAc="MI:0448" db="go"/>
+                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-26467" dbAc="MI:0469" db="intact"/>
+                    <secondaryRef id="REACT_118590" dbAc="MI:0467" db="reactome"/>
+                    <secondaryRef id="GO:0001405" dbAc="MI:0448" db="go"/>
+                </xref>
+                <interactorType>
+                    <names>
+                        <shortLabel>protein</shortLabel>
+                        <fullName>protein</fullName>
+                    </names>
+                    <xref>
+                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0326" dbAc="MI:0488" db="psi-mi"/>
+                        <secondaryRef refTypeAc="MI:0361" refType="see-also" id="SO:0000358" dbAc="MI:0601" db="so"/>
+                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-619654" dbAc="MI:0469" db="intact"/>
+                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                    </xref>
+                </interactorType>
+                <organism ncbiTaxId="559292">
+                    <names>
+                        <shortLabel>yeast</shortLabel>
+                        <fullName>Saccharomyces cerevisiae (strain ATCC 204508 / S288c)</fullName>
+                    </names>
+                </organism>
+                <sequence>MFTSAIRLSSQRLFASQPSVTAAALRSTATTLPLRSYSQPASLQDSSILTWSDFFKLRKQQRRINVGSSLFTALLGCNVSWAYLSTMEIDPTQMLFGFDPLTVISAGIIASGALGYLLGPIVGSQVFKLSHNQQLAQFNNKNKEFLKHIINNRVDASSQSFSNPVPDYYGEKIGSLKEYKQWLRDCHAYAKKAKEFL</sequence>
+            </interactor>
+            <interactor id="549058">
+                <names>
+                    <shortLabel>tim23_yeast</shortLabel>
+                    <fullName>Mitochondrial import inner membrane translocase subunit TIM23</fullName>
+                    <alias type="gene name synonym" typeAc="MI:0302">MIM23</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">MPI3</alias>
+                    <alias type="orf name" typeAc="MI:0306">N3180</alias>
+                    <alias type="locus name" typeAc="MI:0305">YNR017W</alias>
+                    <alias type="gene name" typeAc="MI:0301">TIM23</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">MAS6</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">Mitochondrial protein import protein 3</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">Mitochondrial protein import protein MAS6</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">Membrane import machinery protein MIM23</alias>
+                </names>
+                <xref>
+                    <primaryRef refTypeAc="MI:0356" refType="identity" version="SP_60" id="P32897" dbAc="MI:0486" db="uniprotkb"/>
+                    <secondaryRef id="GO:0016021" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="IPR005681" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="S000005300" dbAc="MI:0484" db="sgd"/>
+                    <secondaryRef id="GO:0030943" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="GO:0015266" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="YNR017w" dbAc="MI:0464" db="cygd"/>
+                    <secondaryRef id="GO:0030150" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="GO:0015450" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="GO:0005744" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="NP_014414.3" dbAc="MI:0481" db="refseq"/>
+                    <secondaryRef id="GO:0005758" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="REACT_85873" dbAc="MI:0467" db="reactome"/>
+                    <secondaryRef refTypeAc="MI:0360" refType="secondary-ac" version="SP_89" id="D6W1J2" dbAc="MI:0486" db="uniprotkb"/>
+                    <secondaryRef id="IPR003397" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-9136" dbAc="MI:0469" db="intact"/>
+                    <secondaryRef id="REACT_118590" dbAc="MI:0467" db="reactome"/>
+                </xref>
+                <interactorType>
+                    <names>
+                        <shortLabel>protein</shortLabel>
+                        <fullName>protein</fullName>
+                    </names>
+                    <xref>
+                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0326" dbAc="MI:0488" db="psi-mi"/>
+                        <secondaryRef refTypeAc="MI:0361" refType="see-also" id="SO:0000358" dbAc="MI:0601" db="so"/>
+                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-619654" dbAc="MI:0469" db="intact"/>
+                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                    </xref>
+                </interactorType>
+                <organism ncbiTaxId="559292">
+                    <names>
+                        <shortLabel>yeast</shortLabel>
+                        <fullName>Saccharomyces cerevisiae (strain ATCC 204508 / S288c)</fullName>
+                    </names>
+                </organism>
+                <sequence>MSWLFGDKTPTDDANAAVGGQDTTKPKELSLKQSLGFEPNINNIISGPGGMHVDTARLHPLAGLDKGVEYLDLEEEQLSSLEGSQGLIPSRGWTDDLCYGTGAVYLLGLGIGGFSGMMQGLQNIPPNSPGKLQLNTVLNHITKRGPFLGNNAGILALSYNIINSTIDALRGKHDTAGSIGAGALTGALFKSSKGLKPMGYSSAMVAAACAVWCSVKKRLLEK</sequence>
+            </interactor>
+            <interactor id="549059">
+                <names>
+                    <shortLabel>cy1_yeast</shortLabel>
+                    <fullName>Cytochrome c1, heme protein, mitochondrial</fullName>
+                    <alias type="gene name" typeAc="MI:0301">CYT1</alias>
+                    <alias type="locus name" typeAc="MI:0305">YOR065W</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">Ubiquinol-cytochrome-c reductase complex cytochrome c1 subunit</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">Cytochrome b-c1 complex subunit 4</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">Complex III subunit 4</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">Complex III subunit IV</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">CTC1</alias>
+                    <alias type="orf name" typeAc="MI:0306">YOR29-16</alias>
+                </names>
+                <xref>
+                    <primaryRef refTypeAc="MI:0356" refType="identity" version="SP_95" id="P07143" dbAc="MI:0486" db="uniprotkb"/>
+                    <secondaryRef id="GO:0016021" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="GO:0020037" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="GO:0006122" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="1P84" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="3CXH" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="GO:0005758" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="GO:0005829" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="1KB9" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="IPR009056" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="REACT_118590" dbAc="MI:0467" db="reactome"/>
+                    <secondaryRef id="GO:0045153" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="YOR065w" dbAc="MI:0464" db="cygd"/>
+                    <secondaryRef id="IPR021157" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="2IBZ" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="1KYO" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="S000005591" dbAc="MI:0484" db="sgd"/>
+                    <secondaryRef id="GO:0005506" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="IPR002326" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="REACT_85873" dbAc="MI:0467" db="reactome"/>
+                    <secondaryRef id="3CX5" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="GO:0005750" dbAc="MI:0448" db="go"/>
+                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-5357" dbAc="MI:0469" db="intact"/>
+                    <secondaryRef refTypeAc="MI:0360" refType="secondary-ac" version="SP_120" id="D6W2C8" dbAc="MI:0486" db="uniprotkb"/>
+                    <secondaryRef id="1EZV" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="NP_014708.1" dbAc="MI:0481" db="refseq"/>
+                </xref>
+                <interactorType>
+                    <names>
+                        <shortLabel>protein</shortLabel>
+                        <fullName>protein</fullName>
+                    </names>
+                    <xref>
+                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0326" dbAc="MI:0488" db="psi-mi"/>
+                        <secondaryRef refTypeAc="MI:0361" refType="see-also" id="SO:0000358" dbAc="MI:0601" db="so"/>
+                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-619654" dbAc="MI:0469" db="intact"/>
+                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                    </xref>
+                </interactorType>
+                <organism ncbiTaxId="559292">
+                    <names>
+                        <shortLabel>yeast</shortLabel>
+                        <fullName>Saccharomyces cerevisiae (strain ATCC 204508 / S288c)</fullName>
+                    </names>
+                </organism>
+                <sequence>MFSNLSKRWAQRTLSKSFYSTATGAASKSGKLTQKLVTAGVAAAGITASTLLYADSLTAEAMTAAEHGLHAPAYAWSHNGPFETFDHASIRRGYQVYREVCAACHSLDRVAWRTLVGVSHTNEEVRNMAEEFEYDDEPDEQGNPKKRPGKLSDYIPGPYPNEQAARAANQGALPPDLSLIVKARHGGCDYIFSLLTGYPDEPPAGVALPPGSNYNPYFPGGSIAMARVLFDDMVEYEDGTPATTSQMAKDVTTFLNWCAEPEHDERKRLGLKTVIILSSLYLLSIWVKKFKWAGIKTRKFVFNPPKPRK</sequence>
+            </interactor>
+            <interactor id="549060">
+                <names>
+                    <shortLabel>atpa_yeast</shortLabel>
+                    <fullName>ATP synthase subunit alpha, mitochondrial</fullName>
+                    <alias type="gene name" typeAc="MI:0301">ATP1</alias>
+                    <alias type="orf name" typeAc="MI:0306">YBL0827</alias>
+                    <alias type="locus name" typeAc="MI:0305">YBL099W</alias>
+                </names>
+                <xref>
+                    <primaryRef refTypeAc="MI:0356" refType="identity" version="SP_85" id="P07251" dbAc="MI:0486" db="uniprotkb"/>
+                    <secondaryRef id="GO:0016021" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="IPR005294" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="4B2Q" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="IPR020003" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="3FKS" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="IPR027417" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="3OEE" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="3OFN" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="GO:0046933" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="GO:0046961" dbAc="MI:0448" db="go"/>
+                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-3234" dbAc="MI:0469" db="intact"/>
+                    <secondaryRef id="GO:0005758" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="IPR000793" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="GO:0005829" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="2XOK" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="2WPD" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="REACT_118590" dbAc="MI:0467" db="reactome"/>
+                    <secondaryRef id="3OE7" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="3ZRY" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="2HLD" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="GO:0042645" dbAc="MI:0448" db="go"/>
+                    <secondaryRef refTypeAc="MI:0360" refType="secondary-ac" version="SP_85" id="Q92449" dbAc="MI:0486" db="uniprotkb"/>
+                    <secondaryRef id="3ZIA" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="IPR000194" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="GO:0015986" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="S000000195" dbAc="MI:0484" db="sgd"/>
+                    <secondaryRef id="GO:0005754" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="GO:0005524" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="NP_009453.2" dbAc="MI:0481" db="refseq"/>
+                    <secondaryRef refTypeAc="MI:0360" refType="secondary-ac" version="SP_119" id="D6VPQ6" dbAc="MI:0486" db="uniprotkb"/>
+                    <secondaryRef id="REACT_85873" dbAc="MI:0467" db="reactome"/>
+                    <secondaryRef id="3OEH" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef id="GO:0015991" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="IPR004100" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef id="IPR023366" dbAc="MI:0449" db="interpro"/>
+                </xref>
+                <interactorType>
+                    <names>
+                        <shortLabel>protein</shortLabel>
+                        <fullName>protein</fullName>
+                    </names>
+                    <xref>
+                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0326" dbAc="MI:0488" db="psi-mi"/>
+                        <secondaryRef refTypeAc="MI:0361" refType="see-also" id="SO:0000358" dbAc="MI:0601" db="so"/>
+                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-619654" dbAc="MI:0469" db="intact"/>
+                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                    </xref>
+                </interactorType>
+                <organism ncbiTaxId="559292">
+                    <names>
+                        <shortLabel>yeast</shortLabel>
+                        <fullName>Saccharomyces cerevisiae (strain ATCC 204508 / S288c)</fullName>
+                    </names>
+                </organism>
+                <sequence>MLARTAAIRSLSRTLINSTKAARPAAAALASTRRLASTKAQPTEVSSILEERIKGVSDEANLNETGRVLAVGDGIARVFGLNNIQAEELVEFSSGVKGMALNLEPGQVGIVLFGSDRLVKEGELVKRTGNIVDVPVGPGLLGRVVDALGNPIDGKGPIDAAGRSRAQVKAPGILPRRSVHEPVQTGLKAVDALVPIGRGQRELIIGDRQTGKTAVALDTILNQKRWNNGSDESKKLYCVYVAVGQKRSTVAQLVQTLEQHDAMKYSIIVAATASEAAPLQYLAPFTAASIGEWFRDNGKHALIVYDDLSKQAVAYRQLSLLLRRPPGREAYPGDVFYLHSRLLERAAKLSEKEGSGSLTALPVIETQGGDVSAYIPTNVISITDGQIFLEAELFYKGIRPAINVGLSVSRVGSAAQVKALKQVAGSLKLFLAQYREVAAFAQFGSDLDASTKQTLVRGERLTQLLKQNQYSPLATEEQVPLIYAGVNGHLDGIELSRIGEFESSFLSYLKSNHNELLTEIREKGELSKELLASLKSATESFVATF</sequence>
+            </interactor>
+            <interactor id="549061">
+                <names>
+                    <shortLabel>tim16_yeast</shortLabel>
+                    <fullName>Mitochondrial import inner membrane translocase subunit TIM16</fullName>
+                    <alias type="locus name" typeAc="MI:0305">YJL104W</alias>
+                    <alias type="orf name" typeAc="MI:0306">J0822</alias>
+                    <alias type="gene name" typeAc="MI:0301">PAM16</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">TIM16</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">Presequence translocated-associated motor subunit PAM16</alias>
+                </names>
+                <xref>
+                    <primaryRef refTypeAc="MI:0356" refType="identity" version="SP_54" id="P42949" dbAc="MI:0486" db="uniprotkb"/>
+                    <secondaryRef id="GO:0030150" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="NP_012431.1" dbAc="MI:0481" db="refseq"/>
+                    <secondaryRef id="YJL104w" dbAc="MI:0464" db="cygd"/>
+                    <secondaryRef id="S000003640" dbAc="MI:0484" db="sgd"/>
+                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-26019" dbAc="MI:0469" db="intact"/>
+                    <secondaryRef id="IPR005341" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef refTypeAc="MI:0360" refType="secondary-ac" version="SP_82" id="D6VW80" dbAc="MI:0486" db="uniprotkb"/>
+                    <secondaryRef id="REACT_85873" dbAc="MI:0467" db="reactome"/>
+                    <secondaryRef id="2GUZ" dbAc="MI:0460" db="rcsb pdb"/>
+                    <secondaryRef refTypeAc="MI:0360" refType="secondary-ac" version="SP_54" id="Q6B2X3" dbAc="MI:0486" db="uniprotkb"/>
+                    <secondaryRef id="GO:0019904" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="GO:0001405" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="REACT_118590" dbAc="MI:0467" db="reactome"/>
+                </xref>
+                <interactorType>
+                    <names>
+                        <shortLabel>protein</shortLabel>
+                        <fullName>protein</fullName>
+                    </names>
+                    <xref>
+                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0326" dbAc="MI:0488" db="psi-mi"/>
+                        <secondaryRef refTypeAc="MI:0361" refType="see-also" id="SO:0000358" dbAc="MI:0601" db="so"/>
+                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-619654" dbAc="MI:0469" db="intact"/>
+                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                    </xref>
+                </interactorType>
+                <organism ncbiTaxId="559292">
+                    <names>
+                        <shortLabel>yeast</shortLabel>
+                        <fullName>Saccharomyces cerevisiae (strain ATCC 204508 / S288c)</fullName>
+                    </names>
+                </organism>
+                <sequence>MAHRAFIQVIITGTQVFGKAFAEAYRQAASQSVKQGATNASRRGTGKGEYGGITLDESCKILNIEESKGDLNMDKINNRFNYLFEVNDKEKGGSFYLQSKVYRAAERLKWELAQREKNAKAKAGDASTAKPPPNSTNSSGADNSASSNQ</sequence>
+            </interactor>
+            <interactor id="549062">
+                <names>
+                    <shortLabel>cox7_yeast</shortLabel>
+                    <fullName>Cytochrome c oxidase subunit 7</fullName>
+                    <alias type="gene name" typeAc="MI:0301">COX7</alias>
+                    <alias type="gene name synonym" typeAc="MI:0302">Cytochrome c oxidase polypeptide VII</alias>
+                    <alias type="orf name" typeAc="MI:0306">YM9920.10C</alias>
+                    <alias type="locus name" typeAc="MI:0305">YMR256C</alias>
+                </names>
+                <xref>
+                    <primaryRef refTypeAc="MI:0356" refType="identity" id="P10174" dbAc="MI:0486" db="uniprotkb"/>
+                    <secondaryRef id="GO:0016021" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="IPR014367" dbAc="MI:0449" db="interpro"/>
+                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-2050505" dbAc="MI:0469" db="intact"/>
+                    <secondaryRef id="GO:0006123" dbAc="MI:0448" db="go"/>
+                    <secondaryRef id="GO:0004129" dbAc="MI:0448" db="go"/>
+                    <secondaryRef refTypeAc="MI:0360" refType="secondary-ac" version="SP_94" id="D6W082" dbAc="MI:0486" db="uniprotkb"/>
+                    <secondaryRef id="NP_013983.1" dbAc="MI:0481" db="refseq"/>
+                    <secondaryRef id="S000004869" dbAc="MI:0484" db="sgd"/>
+                    <secondaryRef id="GO:0005751" dbAc="MI:0448" db="go"/>
+                </xref>
+                <interactorType>
+                    <names>
+                        <shortLabel>protein</shortLabel>
+                        <fullName>protein</fullName>
+                    </names>
+                    <xref>
+                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0326" dbAc="MI:0488" db="psi-mi"/>
+                        <secondaryRef refTypeAc="MI:0361" refType="see-also" id="SO:0000358" dbAc="MI:0601" db="so"/>
+                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-619654" dbAc="MI:0469" db="intact"/>
+                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                    </xref>
+                </interactorType>
+                <organism ncbiTaxId="559292">
+                    <names>
+                        <shortLabel>yeast</shortLabel>
+                        <fullName>Saccharomyces cerevisiae (strain ATCC 204508 / S288c)</fullName>
+                    </names>
+                </organism>
+                <sequence>MANKVIQLQKIFQSSTKPLWWRHPRSALYLYPFYAIFAVAVVTPLLYIPNAIRGIKAKKA</sequence>
+            </interactor>
+        </interactorList>
+        <interactionList>
+            <interaction id="549063" imexId="IM-11451-1">
+                <names>
+                    <shortLabel>atp1-atp2</shortLabel>
+                </names>
+                <xref>
+                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374680" dbAc="MI:0471" db="mint"/>
+                    <secondaryRef refTypeAc="MI:0662" refType="imex-primary" id="IM-11451-1" dbAc="MI:0670" db="imex"/>
+                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994121" dbAc="MI:0469" db="intact"/>
+                </xref>
+                <experimentList>
+                    <experimentRef>549053</experimentRef>
+                </experimentList>
+                <participantList>
+                    <participant id="549064">
+                        <names>
+                            <shortLabel>tim44_yeast</shortLabel>
+                        </names>
+                        <xref>
+                            <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374682" dbAc="MI:0471" db="mint"/>
+                            <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994152" dbAc="MI:0469" db="intact"/>
+                        </xref>
+                        <interactorRef>549054</interactorRef>
+                        <participantIdentificationMethodList>
+                            <participantIdentificationMethod>
+                                <names>
+                                    <shortLabel>nucleotide sequence</shortLabel>
+                                    <fullName>nucleotide sequence identification</fullName>
+                                    <alias type="go synonym" typeAc="MI:0303">sequence cloning</alias>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0078" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-958" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </participantIdentificationMethod>
+                        </participantIdentificationMethodList>
+                        <biologicalRole>
+                            <names>
+                                <shortLabel>unspecified role</shortLabel>
+                                <fullName>unspecified role</fullName>
+                            </names>
+                            <xref>
+                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0499" dbAc="MI:0488" db="psi-mi"/>
+                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-77781" dbAc="MI:0469" db="intact"/>
+                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                            </xref>
+                        </biologicalRole>
+                        <experimentalRoleList>
+                            <experimentalRole>
+                                <names>
+                                    <shortLabel>neutral component</shortLabel>
+                                    <fullName>neutral component</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0497" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-55" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalRole>
+                        </experimentalRoleList>
+                        <experimentalPreparationList>
+                            <experimentalPreparation>
+                                <names>
+                                    <shortLabel>subcellular prep</shortLabel>
+                                    <fullName>subcellular preparation</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0372" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1537724" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalPreparation>
+                            <experimentalPreparation>
+                                <names>
+                                    <shortLabel>over-expressed</shortLabel>
+                                    <fullName>over expressed level</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0506" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1537736" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalPreparation>
+                        </experimentalPreparationList>
+                        <featureList>
+                            <feature id="549065">
+                                <names>
+                                    <shortLabel>gfp tagged</shortLabel>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374701" dbAc="MI:0471" db="mint"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994164" dbAc="MI:0469" db="intact"/>
+                                </xref>
+                                <featureType>
+                                    <names>
+                                        <shortLabel>gfp tag</shortLabel>
+                                        <fullName>green fluorescent protein tag</fullName>
+                                        <alias type="go synonym" typeAc="MI:0303">green fluorescent protein</alias>
+                                        <alias type="go synonym" typeAc="MI:0303">GFP</alias>
+                                    </names>
+                                    <xref>
+                                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0367" dbAc="MI:0488" db="psi-mi"/>
+                                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-608965" dbAc="MI:0469" db="intact"/>
+                                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="7491768" dbAc="MI:0446" db="pubmed"/>
+                                    </xref>
+                                </featureType>
+                                <featureRangeList>
+                                    <featureRange>
+                                        <startStatus>
+                                            <names>
+                                                <shortLabel>undetermined</shortLabel>
+                                                <fullName>undetermined sequence position</fullName>
+                                            </names>
+                                            <xref>
+                                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0339" dbAc="MI:0488" db="psi-mi"/>
+                                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-448295" dbAc="MI:0469" db="intact"/>
+                                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                            </xref>
+                                        </startStatus>
+                                        <endStatus>
+                                            <names>
+                                                <shortLabel>undetermined</shortLabel>
+                                                <fullName>undetermined sequence position</fullName>
+                                            </names>
+                                            <xref>
+                                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0339" dbAc="MI:0488" db="psi-mi"/>
+                                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-448295" dbAc="MI:0469" db="intact"/>
+                                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                            </xref>
+                                        </endStatus>
+                                        <isLink>false</isLink>
+                                    </featureRange>
+                                </featureRangeList>
+                            </feature>
+                        </featureList>
+                        <attributeList>
+                            <attribute nameAc="MI:0612" name="comment">Stoichiometry: 1.0</attribute>
+                        </attributeList>
+                    </participant>
+                    <participant id="549066">
+                        <names>
+                            <shortLabel>qcr2_yeast</shortLabel>
+                        </names>
+                        <xref>
+                            <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374686" dbAc="MI:0471" db="mint"/>
+                            <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994149" dbAc="MI:0469" db="intact"/>
+                        </xref>
+                        <interactorRef>549055</interactorRef>
+                        <participantIdentificationMethodList>
+                            <participantIdentificationMethod>
+                                <names>
+                                    <shortLabel>nucleotide sequence</shortLabel>
+                                    <fullName>nucleotide sequence identification</fullName>
+                                    <alias type="go synonym" typeAc="MI:0303">sequence cloning</alias>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0078" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-958" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </participantIdentificationMethod>
+                        </participantIdentificationMethodList>
+                        <biologicalRole>
+                            <names>
+                                <shortLabel>unspecified role</shortLabel>
+                                <fullName>unspecified role</fullName>
+                            </names>
+                            <xref>
+                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0499" dbAc="MI:0488" db="psi-mi"/>
+                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-77781" dbAc="MI:0469" db="intact"/>
+                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                            </xref>
+                        </biologicalRole>
+                        <experimentalRoleList>
+                            <experimentalRole>
+                                <names>
+                                    <shortLabel>neutral component</shortLabel>
+                                    <fullName>neutral component</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0497" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-55" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalRole>
+                        </experimentalRoleList>
+                        <experimentalPreparationList>
+                            <experimentalPreparation>
+                                <names>
+                                    <shortLabel>subcellular prep</shortLabel>
+                                    <fullName>subcellular preparation</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0372" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1537724" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalPreparation>
+                            <experimentalPreparation>
+                                <names>
+                                    <shortLabel>over-expressed</shortLabel>
+                                    <fullName>over expressed level</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0506" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1537736" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalPreparation>
+                        </experimentalPreparationList>
+                        <featureList>
+                            <feature id="549067">
+                                <names>
+                                    <shortLabel>gfp tagged</shortLabel>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374733" dbAc="MI:0471" db="mint"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994158" dbAc="MI:0469" db="intact"/>
+                                </xref>
+                                <featureType>
+                                    <names>
+                                        <shortLabel>gfp tag</shortLabel>
+                                        <fullName>green fluorescent protein tag</fullName>
+                                        <alias type="go synonym" typeAc="MI:0303">green fluorescent protein</alias>
+                                        <alias type="go synonym" typeAc="MI:0303">GFP</alias>
+                                    </names>
+                                    <xref>
+                                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0367" dbAc="MI:0488" db="psi-mi"/>
+                                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-608965" dbAc="MI:0469" db="intact"/>
+                                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="7491768" dbAc="MI:0446" db="pubmed"/>
+                                    </xref>
+                                </featureType>
+                                <featureRangeList>
+                                    <featureRange>
+                                        <startStatus>
+                                            <names>
+                                                <shortLabel>undetermined</shortLabel>
+                                                <fullName>undetermined sequence position</fullName>
+                                            </names>
+                                            <xref>
+                                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0339" dbAc="MI:0488" db="psi-mi"/>
+                                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-448295" dbAc="MI:0469" db="intact"/>
+                                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                            </xref>
+                                        </startStatus>
+                                        <endStatus>
+                                            <names>
+                                                <shortLabel>undetermined</shortLabel>
+                                                <fullName>undetermined sequence position</fullName>
+                                            </names>
+                                            <xref>
+                                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0339" dbAc="MI:0488" db="psi-mi"/>
+                                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-448295" dbAc="MI:0469" db="intact"/>
+                                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                            </xref>
+                                        </endStatus>
+                                        <isLink>false</isLink>
+                                    </featureRange>
+                                </featureRangeList>
+                            </feature>
+                        </featureList>
+                        <attributeList>
+                            <attribute nameAc="MI:0612" name="comment">Stoichiometry: 1.0</attribute>
+                        </attributeList>
+                    </participant>
+                    <participant id="549068">
+                        <names>
+                            <shortLabel>atpb_yeast</shortLabel>
+                        </names>
+                        <xref>
+                            <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374685" dbAc="MI:0471" db="mint"/>
+                            <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994146" dbAc="MI:0469" db="intact"/>
+                        </xref>
+                        <interactorRef>549056</interactorRef>
+                        <participantIdentificationMethodList>
+                            <participantIdentificationMethod>
+                                <names>
+                                    <shortLabel>nucleotide sequence</shortLabel>
+                                    <fullName>nucleotide sequence identification</fullName>
+                                    <alias type="go synonym" typeAc="MI:0303">sequence cloning</alias>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0078" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-958" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </participantIdentificationMethod>
+                        </participantIdentificationMethodList>
+                        <biologicalRole>
+                            <names>
+                                <shortLabel>unspecified role</shortLabel>
+                                <fullName>unspecified role</fullName>
+                            </names>
+                            <xref>
+                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0499" dbAc="MI:0488" db="psi-mi"/>
+                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-77781" dbAc="MI:0469" db="intact"/>
+                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                            </xref>
+                        </biologicalRole>
+                        <experimentalRoleList>
+                            <experimentalRole>
+                                <names>
+                                    <shortLabel>neutral component</shortLabel>
+                                    <fullName>neutral component</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0497" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-55" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalRole>
+                        </experimentalRoleList>
+                        <experimentalPreparationList>
+                            <experimentalPreparation>
+                                <names>
+                                    <shortLabel>subcellular prep</shortLabel>
+                                    <fullName>subcellular preparation</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0372" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1537724" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalPreparation>
+                            <experimentalPreparation>
+                                <names>
+                                    <shortLabel>over-expressed</shortLabel>
+                                    <fullName>over expressed level</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0506" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1537736" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalPreparation>
+                        </experimentalPreparationList>
+                        <featureList>
+                            <feature id="549069">
+                                <names>
+                                    <shortLabel>gfp tagged</shortLabel>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374725" dbAc="MI:0471" db="mint"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994161" dbAc="MI:0469" db="intact"/>
+                                </xref>
+                                <featureType>
+                                    <names>
+                                        <shortLabel>gfp tag</shortLabel>
+                                        <fullName>green fluorescent protein tag</fullName>
+                                        <alias type="go synonym" typeAc="MI:0303">green fluorescent protein</alias>
+                                        <alias type="go synonym" typeAc="MI:0303">GFP</alias>
+                                    </names>
+                                    <xref>
+                                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0367" dbAc="MI:0488" db="psi-mi"/>
+                                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-608965" dbAc="MI:0469" db="intact"/>
+                                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="7491768" dbAc="MI:0446" db="pubmed"/>
+                                    </xref>
+                                </featureType>
+                                <featureRangeList>
+                                    <featureRange>
+                                        <startStatus>
+                                            <names>
+                                                <shortLabel>undetermined</shortLabel>
+                                                <fullName>undetermined sequence position</fullName>
+                                            </names>
+                                            <xref>
+                                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0339" dbAc="MI:0488" db="psi-mi"/>
+                                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-448295" dbAc="MI:0469" db="intact"/>
+                                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                            </xref>
+                                        </startStatus>
+                                        <endStatus>
+                                            <names>
+                                                <shortLabel>undetermined</shortLabel>
+                                                <fullName>undetermined sequence position</fullName>
+                                            </names>
+                                            <xref>
+                                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0339" dbAc="MI:0488" db="psi-mi"/>
+                                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-448295" dbAc="MI:0469" db="intact"/>
+                                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                            </xref>
+                                        </endStatus>
+                                        <isLink>false</isLink>
+                                    </featureRange>
+                                </featureRangeList>
+                            </feature>
+                        </featureList>
+                        <attributeList>
+                            <attribute nameAc="MI:0612" name="comment">Stoichiometry: 1.0</attribute>
+                        </attributeList>
+                    </participant>
+                    <participant id="549070">
+                        <names>
+                            <shortLabel>pam17_yeast</shortLabel>
+                        </names>
+                        <xref>
+                            <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374681" dbAc="MI:0471" db="mint"/>
+                            <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994143" dbAc="MI:0469" db="intact"/>
+                        </xref>
+                        <interactorRef>549057</interactorRef>
+                        <participantIdentificationMethodList>
+                            <participantIdentificationMethod>
+                                <names>
+                                    <shortLabel>nucleotide sequence</shortLabel>
+                                    <fullName>nucleotide sequence identification</fullName>
+                                    <alias type="go synonym" typeAc="MI:0303">sequence cloning</alias>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0078" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-958" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </participantIdentificationMethod>
+                        </participantIdentificationMethodList>
+                        <biologicalRole>
+                            <names>
+                                <shortLabel>unspecified role</shortLabel>
+                                <fullName>unspecified role</fullName>
+                            </names>
+                            <xref>
+                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0499" dbAc="MI:0488" db="psi-mi"/>
+                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-77781" dbAc="MI:0469" db="intact"/>
+                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                            </xref>
+                        </biologicalRole>
+                        <experimentalRoleList>
+                            <experimentalRole>
+                                <names>
+                                    <shortLabel>neutral component</shortLabel>
+                                    <fullName>neutral component</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0497" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-55" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalRole>
+                        </experimentalRoleList>
+                        <experimentalPreparationList>
+                            <experimentalPreparation>
+                                <names>
+                                    <shortLabel>subcellular prep</shortLabel>
+                                    <fullName>subcellular preparation</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0372" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1537724" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalPreparation>
+                            <experimentalPreparation>
+                                <names>
+                                    <shortLabel>over-expressed</shortLabel>
+                                    <fullName>over expressed level</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0506" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1537736" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalPreparation>
+                        </experimentalPreparationList>
+                        <featureList>
+                            <feature id="549071">
+                                <names>
+                                    <shortLabel>gfp tagged</shortLabel>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374693" dbAc="MI:0471" db="mint"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994170" dbAc="MI:0469" db="intact"/>
+                                </xref>
+                                <featureType>
+                                    <names>
+                                        <shortLabel>gfp tag</shortLabel>
+                                        <fullName>green fluorescent protein tag</fullName>
+                                        <alias type="go synonym" typeAc="MI:0303">green fluorescent protein</alias>
+                                        <alias type="go synonym" typeAc="MI:0303">GFP</alias>
+                                    </names>
+                                    <xref>
+                                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0367" dbAc="MI:0488" db="psi-mi"/>
+                                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-608965" dbAc="MI:0469" db="intact"/>
+                                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="7491768" dbAc="MI:0446" db="pubmed"/>
+                                    </xref>
+                                </featureType>
+                                <featureRangeList>
+                                    <featureRange>
+                                        <startStatus>
+                                            <names>
+                                                <shortLabel>undetermined</shortLabel>
+                                                <fullName>undetermined sequence position</fullName>
+                                            </names>
+                                            <xref>
+                                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0339" dbAc="MI:0488" db="psi-mi"/>
+                                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-448295" dbAc="MI:0469" db="intact"/>
+                                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                            </xref>
+                                        </startStatus>
+                                        <endStatus>
+                                            <names>
+                                                <shortLabel>undetermined</shortLabel>
+                                                <fullName>undetermined sequence position</fullName>
+                                            </names>
+                                            <xref>
+                                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0339" dbAc="MI:0488" db="psi-mi"/>
+                                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-448295" dbAc="MI:0469" db="intact"/>
+                                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                            </xref>
+                                        </endStatus>
+                                        <isLink>false</isLink>
+                                    </featureRange>
+                                </featureRangeList>
+                            </feature>
+                        </featureList>
+                        <attributeList>
+                            <attribute nameAc="MI:0612" name="comment">Stoichiometry: 1.0</attribute>
+                        </attributeList>
+                    </participant>
+                    <participant id="549072">
+                        <names>
+                            <shortLabel>tim23_yeast</shortLabel>
+                        </names>
+                        <xref>
+                            <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374683" dbAc="MI:0471" db="mint"/>
+                            <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994140" dbAc="MI:0469" db="intact"/>
+                        </xref>
+                        <interactorRef>549058</interactorRef>
+                        <participantIdentificationMethodList>
+                            <participantIdentificationMethod>
+                                <names>
+                                    <shortLabel>nucleotide sequence</shortLabel>
+                                    <fullName>nucleotide sequence identification</fullName>
+                                    <alias type="go synonym" typeAc="MI:0303">sequence cloning</alias>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0078" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-958" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </participantIdentificationMethod>
+                        </participantIdentificationMethodList>
+                        <biologicalRole>
+                            <names>
+                                <shortLabel>unspecified role</shortLabel>
+                                <fullName>unspecified role</fullName>
+                            </names>
+                            <xref>
+                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0499" dbAc="MI:0488" db="psi-mi"/>
+                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-77781" dbAc="MI:0469" db="intact"/>
+                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                            </xref>
+                        </biologicalRole>
+                        <experimentalRoleList>
+                            <experimentalRole>
+                                <names>
+                                    <shortLabel>neutral component</shortLabel>
+                                    <fullName>neutral component</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0497" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-55" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalRole>
+                        </experimentalRoleList>
+                        <experimentalPreparationList>
+                            <experimentalPreparation>
+                                <names>
+                                    <shortLabel>subcellular prep</shortLabel>
+                                    <fullName>subcellular preparation</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0372" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1537724" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalPreparation>
+                            <experimentalPreparation>
+                                <names>
+                                    <shortLabel>over-expressed</shortLabel>
+                                    <fullName>over expressed level</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0506" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1537736" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalPreparation>
+                        </experimentalPreparationList>
+                        <featureList>
+                            <feature id="549073">
+                                <names>
+                                    <shortLabel>gfp tagged</shortLabel>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374709" dbAc="MI:0471" db="mint"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994173" dbAc="MI:0469" db="intact"/>
+                                </xref>
+                                <featureType>
+                                    <names>
+                                        <shortLabel>gfp tag</shortLabel>
+                                        <fullName>green fluorescent protein tag</fullName>
+                                        <alias type="go synonym" typeAc="MI:0303">green fluorescent protein</alias>
+                                        <alias type="go synonym" typeAc="MI:0303">GFP</alias>
+                                    </names>
+                                    <xref>
+                                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0367" dbAc="MI:0488" db="psi-mi"/>
+                                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-608965" dbAc="MI:0469" db="intact"/>
+                                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="7491768" dbAc="MI:0446" db="pubmed"/>
+                                    </xref>
+                                </featureType>
+                                <featureRangeList>
+                                    <featureRange>
+                                        <startStatus>
+                                            <names>
+                                                <shortLabel>undetermined</shortLabel>
+                                                <fullName>undetermined sequence position</fullName>
+                                            </names>
+                                            <xref>
+                                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0339" dbAc="MI:0488" db="psi-mi"/>
+                                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-448295" dbAc="MI:0469" db="intact"/>
+                                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                            </xref>
+                                        </startStatus>
+                                        <endStatus>
+                                            <names>
+                                                <shortLabel>undetermined</shortLabel>
+                                                <fullName>undetermined sequence position</fullName>
+                                            </names>
+                                            <xref>
+                                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0339" dbAc="MI:0488" db="psi-mi"/>
+                                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-448295" dbAc="MI:0469" db="intact"/>
+                                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                            </xref>
+                                        </endStatus>
+                                        <isLink>false</isLink>
+                                    </featureRange>
+                                </featureRangeList>
+                            </feature>
+                        </featureList>
+                        <attributeList>
+                            <attribute nameAc="MI:0612" name="comment">Stoichiometry: 1.0</attribute>
+                        </attributeList>
+                    </participant>
+                    <participant id="549074">
+                        <names>
+                            <shortLabel>cy1_yeast</shortLabel>
+                        </names>
+                        <xref>
+                            <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374687" dbAc="MI:0471" db="mint"/>
+                            <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994137" dbAc="MI:0469" db="intact"/>
+                        </xref>
+                        <interactorRef>549059</interactorRef>
+                        <participantIdentificationMethodList>
+                            <participantIdentificationMethod>
+                                <names>
+                                    <shortLabel>nucleotide sequence</shortLabel>
+                                    <fullName>nucleotide sequence identification</fullName>
+                                    <alias type="go synonym" typeAc="MI:0303">sequence cloning</alias>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0078" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-958" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </participantIdentificationMethod>
+                        </participantIdentificationMethodList>
+                        <biologicalRole>
+                            <names>
+                                <shortLabel>unspecified role</shortLabel>
+                                <fullName>unspecified role</fullName>
+                            </names>
+                            <xref>
+                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0499" dbAc="MI:0488" db="psi-mi"/>
+                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-77781" dbAc="MI:0469" db="intact"/>
+                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                            </xref>
+                        </biologicalRole>
+                        <experimentalRoleList>
+                            <experimentalRole>
+                                <names>
+                                    <shortLabel>neutral component</shortLabel>
+                                    <fullName>neutral component</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0497" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-55" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalRole>
+                        </experimentalRoleList>
+                        <experimentalPreparationList>
+                            <experimentalPreparation>
+                                <names>
+                                    <shortLabel>subcellular prep</shortLabel>
+                                    <fullName>subcellular preparation</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0372" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1537724" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalPreparation>
+                            <experimentalPreparation>
+                                <names>
+                                    <shortLabel>over-expressed</shortLabel>
+                                    <fullName>over expressed level</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0506" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1537736" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalPreparation>
+                        </experimentalPreparationList>
+                        <featureList>
+                            <feature id="549075">
+                                <names>
+                                    <shortLabel>gfp tagged</shortLabel>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374741" dbAc="MI:0471" db="mint"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994179" dbAc="MI:0469" db="intact"/>
+                                </xref>
+                                <featureType>
+                                    <names>
+                                        <shortLabel>gfp tag</shortLabel>
+                                        <fullName>green fluorescent protein tag</fullName>
+                                        <alias type="go synonym" typeAc="MI:0303">green fluorescent protein</alias>
+                                        <alias type="go synonym" typeAc="MI:0303">GFP</alias>
+                                    </names>
+                                    <xref>
+                                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0367" dbAc="MI:0488" db="psi-mi"/>
+                                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-608965" dbAc="MI:0469" db="intact"/>
+                                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="7491768" dbAc="MI:0446" db="pubmed"/>
+                                    </xref>
+                                </featureType>
+                                <featureRangeList>
+                                    <featureRange>
+                                        <startStatus>
+                                            <names>
+                                                <shortLabel>undetermined</shortLabel>
+                                                <fullName>undetermined sequence position</fullName>
+                                            </names>
+                                            <xref>
+                                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0339" dbAc="MI:0488" db="psi-mi"/>
+                                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-448295" dbAc="MI:0469" db="intact"/>
+                                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                            </xref>
+                                        </startStatus>
+                                        <endStatus>
+                                            <names>
+                                                <shortLabel>undetermined</shortLabel>
+                                                <fullName>undetermined sequence position</fullName>
+                                            </names>
+                                            <xref>
+                                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0339" dbAc="MI:0488" db="psi-mi"/>
+                                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-448295" dbAc="MI:0469" db="intact"/>
+                                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                            </xref>
+                                        </endStatus>
+                                        <isLink>false</isLink>
+                                    </featureRange>
+                                </featureRangeList>
+                            </feature>
+                        </featureList>
+                        <attributeList>
+                            <attribute nameAc="MI:0612" name="comment">Stoichiometry: 1.0</attribute>
+                        </attributeList>
+                    </participant>
+                    <participant id="549076">
+                        <names>
+                            <shortLabel>atpa_yeast</shortLabel>
+                        </names>
+                        <xref>
+                            <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374684" dbAc="MI:0471" db="mint"/>
+                            <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994134" dbAc="MI:0469" db="intact"/>
+                        </xref>
+                        <interactorRef>549060</interactorRef>
+                        <participantIdentificationMethodList>
+                            <participantIdentificationMethod>
+                                <names>
+                                    <shortLabel>nucleotide sequence</shortLabel>
+                                    <fullName>nucleotide sequence identification</fullName>
+                                    <alias type="go synonym" typeAc="MI:0303">sequence cloning</alias>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0078" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-958" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </participantIdentificationMethod>
+                        </participantIdentificationMethodList>
+                        <biologicalRole>
+                            <names>
+                                <shortLabel>unspecified role</shortLabel>
+                                <fullName>unspecified role</fullName>
+                            </names>
+                            <xref>
+                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0499" dbAc="MI:0488" db="psi-mi"/>
+                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-77781" dbAc="MI:0469" db="intact"/>
+                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                            </xref>
+                        </biologicalRole>
+                        <experimentalRoleList>
+                            <experimentalRole>
+                                <names>
+                                    <shortLabel>neutral component</shortLabel>
+                                    <fullName>neutral component</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0497" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-55" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalRole>
+                        </experimentalRoleList>
+                        <experimentalPreparationList>
+                            <experimentalPreparation>
+                                <names>
+                                    <shortLabel>subcellular prep</shortLabel>
+                                    <fullName>subcellular preparation</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0372" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1537724" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalPreparation>
+                            <experimentalPreparation>
+                                <names>
+                                    <shortLabel>over-expressed</shortLabel>
+                                    <fullName>over expressed level</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0506" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1537736" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalPreparation>
+                        </experimentalPreparationList>
+                        <featureList>
+                            <feature id="549077">
+                                <names>
+                                    <shortLabel>gfp tagged</shortLabel>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374717" dbAc="MI:0471" db="mint"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994167" dbAc="MI:0469" db="intact"/>
+                                </xref>
+                                <featureType>
+                                    <names>
+                                        <shortLabel>gfp tag</shortLabel>
+                                        <fullName>green fluorescent protein tag</fullName>
+                                        <alias type="go synonym" typeAc="MI:0303">green fluorescent protein</alias>
+                                        <alias type="go synonym" typeAc="MI:0303">GFP</alias>
+                                    </names>
+                                    <xref>
+                                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0367" dbAc="MI:0488" db="psi-mi"/>
+                                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-608965" dbAc="MI:0469" db="intact"/>
+                                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="7491768" dbAc="MI:0446" db="pubmed"/>
+                                    </xref>
+                                </featureType>
+                                <featureRangeList>
+                                    <featureRange>
+                                        <startStatus>
+                                            <names>
+                                                <shortLabel>undetermined</shortLabel>
+                                                <fullName>undetermined sequence position</fullName>
+                                            </names>
+                                            <xref>
+                                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0339" dbAc="MI:0488" db="psi-mi"/>
+                                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-448295" dbAc="MI:0469" db="intact"/>
+                                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                            </xref>
+                                        </startStatus>
+                                        <endStatus>
+                                            <names>
+                                                <shortLabel>undetermined</shortLabel>
+                                                <fullName>undetermined sequence position</fullName>
+                                            </names>
+                                            <xref>
+                                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0339" dbAc="MI:0488" db="psi-mi"/>
+                                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-448295" dbAc="MI:0469" db="intact"/>
+                                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                            </xref>
+                                        </endStatus>
+                                        <isLink>false</isLink>
+                                    </featureRange>
+                                </featureRangeList>
+                            </feature>
+                        </featureList>
+                        <attributeList>
+                            <attribute nameAc="MI:0612" name="comment">Stoichiometry: 1.0</attribute>
+                        </attributeList>
+                    </participant>
+                    <participant id="549078">
+                        <names>
+                            <shortLabel>tim16_yeast</shortLabel>
+                        </names>
+                        <xref>
+                            <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374688" dbAc="MI:0471" db="mint"/>
+                            <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994131" dbAc="MI:0469" db="intact"/>
+                        </xref>
+                        <interactorRef>549061</interactorRef>
+                        <participantIdentificationMethodList>
+                            <participantIdentificationMethod>
+                                <names>
+                                    <shortLabel>nucleotide sequence</shortLabel>
+                                    <fullName>nucleotide sequence identification</fullName>
+                                    <alias type="go synonym" typeAc="MI:0303">sequence cloning</alias>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0078" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-958" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </participantIdentificationMethod>
+                        </participantIdentificationMethodList>
+                        <biologicalRole>
+                            <names>
+                                <shortLabel>unspecified role</shortLabel>
+                                <fullName>unspecified role</fullName>
+                            </names>
+                            <xref>
+                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0499" dbAc="MI:0488" db="psi-mi"/>
+                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-77781" dbAc="MI:0469" db="intact"/>
+                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                            </xref>
+                        </biologicalRole>
+                        <experimentalRoleList>
+                            <experimentalRole>
+                                <names>
+                                    <shortLabel>neutral component</shortLabel>
+                                    <fullName>neutral component</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0497" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-55" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalRole>
+                        </experimentalRoleList>
+                        <experimentalPreparationList>
+                            <experimentalPreparation>
+                                <names>
+                                    <shortLabel>subcellular prep</shortLabel>
+                                    <fullName>subcellular preparation</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0372" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1537724" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalPreparation>
+                            <experimentalPreparation>
+                                <names>
+                                    <shortLabel>over-expressed</shortLabel>
+                                    <fullName>over expressed level</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0506" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1537736" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalPreparation>
+                        </experimentalPreparationList>
+                        <featureList>
+                            <feature id="549079">
+                                <names>
+                                    <shortLabel>gfp tagged</shortLabel>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374755" dbAc="MI:0471" db="mint"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994155" dbAc="MI:0469" db="intact"/>
+                                </xref>
+                                <featureType>
+                                    <names>
+                                        <shortLabel>gfp tag</shortLabel>
+                                        <fullName>green fluorescent protein tag</fullName>
+                                        <alias type="go synonym" typeAc="MI:0303">green fluorescent protein</alias>
+                                        <alias type="go synonym" typeAc="MI:0303">GFP</alias>
+                                    </names>
+                                    <xref>
+                                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0367" dbAc="MI:0488" db="psi-mi"/>
+                                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-608965" dbAc="MI:0469" db="intact"/>
+                                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="7491768" dbAc="MI:0446" db="pubmed"/>
+                                    </xref>
+                                </featureType>
+                                <featureRangeList>
+                                    <featureRange>
+                                        <startStatus>
+                                            <names>
+                                                <shortLabel>undetermined</shortLabel>
+                                                <fullName>undetermined sequence position</fullName>
+                                            </names>
+                                            <xref>
+                                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0339" dbAc="MI:0488" db="psi-mi"/>
+                                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-448295" dbAc="MI:0469" db="intact"/>
+                                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                            </xref>
+                                        </startStatus>
+                                        <endStatus>
+                                            <names>
+                                                <shortLabel>undetermined</shortLabel>
+                                                <fullName>undetermined sequence position</fullName>
+                                            </names>
+                                            <xref>
+                                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0339" dbAc="MI:0488" db="psi-mi"/>
+                                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-448295" dbAc="MI:0469" db="intact"/>
+                                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                            </xref>
+                                        </endStatus>
+                                        <isLink>false</isLink>
+                                    </featureRange>
+                                </featureRangeList>
+                            </feature>
+                        </featureList>
+                        <attributeList>
+                            <attribute nameAc="MI:0612" name="comment">Stoichiometry: 1.0</attribute>
+                        </attributeList>
+                    </participant>
+                    <participant id="549080">
+                        <names>
+                            <shortLabel>cox7_yeast</shortLabel>
+                        </names>
+                        <xref>
+                            <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374689" dbAc="MI:0471" db="mint"/>
+                            <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994128" dbAc="MI:0469" db="intact"/>
+                        </xref>
+                        <interactorRef>549062</interactorRef>
+                        <participantIdentificationMethodList>
+                            <participantIdentificationMethod>
+                                <names>
+                                    <shortLabel>nucleotide sequence</shortLabel>
+                                    <fullName>nucleotide sequence identification</fullName>
+                                    <alias type="go synonym" typeAc="MI:0303">sequence cloning</alias>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0078" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-958" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </participantIdentificationMethod>
+                        </participantIdentificationMethodList>
+                        <biologicalRole>
+                            <names>
+                                <shortLabel>unspecified role</shortLabel>
+                                <fullName>unspecified role</fullName>
+                            </names>
+                            <xref>
+                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0499" dbAc="MI:0488" db="psi-mi"/>
+                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-77781" dbAc="MI:0469" db="intact"/>
+                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                            </xref>
+                        </biologicalRole>
+                        <experimentalRoleList>
+                            <experimentalRole>
+                                <names>
+                                    <shortLabel>neutral component</shortLabel>
+                                    <fullName>neutral component</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0497" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-55" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalRole>
+                        </experimentalRoleList>
+                        <experimentalPreparationList>
+                            <experimentalPreparation>
+                                <names>
+                                    <shortLabel>subcellular prep</shortLabel>
+                                    <fullName>subcellular preparation</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0372" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1537724" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalPreparation>
+                            <experimentalPreparation>
+                                <names>
+                                    <shortLabel>over-expressed</shortLabel>
+                                    <fullName>over expressed level</fullName>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0506" dbAc="MI:0488" db="psi-mi"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-1537736" dbAc="MI:0469" db="intact"/>
+                                    <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                </xref>
+                            </experimentalPreparation>
+                        </experimentalPreparationList>
+                        <featureList>
+                            <feature id="549081">
+                                <names>
+                                    <shortLabel>gfp tagged</shortLabel>
+                                </names>
+                                <xref>
+                                    <primaryRef refTypeAc="MI:0356" refType="identity" id="MINT-3374766" dbAc="MI:0471" db="mint"/>
+                                    <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-6994176" dbAc="MI:0469" db="intact"/>
+                                </xref>
+                                <featureType>
+                                    <names>
+                                        <shortLabel>gfp tag</shortLabel>
+                                        <fullName>green fluorescent protein tag</fullName>
+                                        <alias type="go synonym" typeAc="MI:0303">green fluorescent protein</alias>
+                                        <alias type="go synonym" typeAc="MI:0303">GFP</alias>
+                                    </names>
+                                    <xref>
+                                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0367" dbAc="MI:0488" db="psi-mi"/>
+                                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-608965" dbAc="MI:0469" db="intact"/>
+                                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="7491768" dbAc="MI:0446" db="pubmed"/>
+                                    </xref>
+                                </featureType>
+                                <featureRangeList>
+                                    <featureRange>
+                                        <startStatus>
+                                            <names>
+                                                <shortLabel>undetermined</shortLabel>
+                                                <fullName>undetermined sequence position</fullName>
+                                            </names>
+                                            <xref>
+                                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0339" dbAc="MI:0488" db="psi-mi"/>
+                                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-448295" dbAc="MI:0469" db="intact"/>
+                                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                            </xref>
+                                        </startStatus>
+                                        <endStatus>
+                                            <names>
+                                                <shortLabel>undetermined</shortLabel>
+                                                <fullName>undetermined sequence position</fullName>
+                                            </names>
+                                            <xref>
+                                                <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0339" dbAc="MI:0488" db="psi-mi"/>
+                                                <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-448295" dbAc="MI:0469" db="intact"/>
+                                                <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                                            </xref>
+                                        </endStatus>
+                                        <isLink>false</isLink>
+                                    </featureRange>
+                                </featureRangeList>
+                            </feature>
+                        </featureList>
+                        <attributeList>
+                            <attribute nameAc="MI:0612" name="comment">Stoichiometry: 1.0</attribute>
+                        </attributeList>
+                    </participant>
+                </participantList>
+                <interactionType>
+                    <names>
+                        <shortLabel>colocalization</shortLabel>
+                        <fullName>colocalization</fullName>
+                    </names>
+                    <xref>
+                        <primaryRef refTypeAc="MI:0356" refType="identity" id="MI:0403" dbAc="MI:0488" db="psi-mi"/>
+                        <secondaryRef refTypeAc="MI:0356" refType="identity" id="EBI-608832" dbAc="MI:0469" db="intact"/>
+                        <secondaryRef refTypeAc="MI:0358" refType="primary-reference" id="14755292" dbAc="MI:0446" db="pubmed"/>
+                    </xref>
+                </interactionType>
+                <modelled>false</modelled>
+                <intraMolecular>false</intraMolecular>
+                <negative>false</negative>
+                <attributeList>
+                    <attribute nameAc="MI:0599" name="figure legend">F2B</attribute>
+                    <attribute nameAc="MI:0612" name="comment">homomint</attribute>
+                    <attribute nameAc="MI:0612" name="comment">mint</attribute>
+                </attributeList>
+            </interaction>
+        </interactionList>
+    </entry>
+</entrySet>

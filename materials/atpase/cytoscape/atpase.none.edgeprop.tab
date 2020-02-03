@@ -1,0 +1,9 @@
+#acc	type_id	type_name	method_id	method_name	pmid	imexid	method_count	pmid_count	imexid_count
+uniprotkb:P48558 (pp) uniprotkb:Q07817-1	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-1	1	1	1
+uniprotkb:P25705 (pp) uniprotkb:Q8N5M1	MI:0407	direct interaction	MI:0018	2 hybrid	11410595	IM-19049-3	1	1	1
+uniprotkb:P06576 (pp) uniprotkb:Q5TC12	MI:0407	direct interaction	MI:0018	2 hybrid	11410595	IM-19049-1	1	1	1
+uniprotkb:P40576 (pp) uniprotkb:Q02888	MI:0407|MI:0915	direct interaction|physical association	MI:0096|MI:0096	pull down|pull down	24942160|24942160	IM-23526-7|IM-23526-6	1	1	2
+uniprotkb:P00830 (pp) uniprotkb:Q02888	MI:0915	physical association	MI:0007	anti tag coip	24942160	IM-23526-5	1	1	1
+uniprotkb:P32335 (pp) uniprotkb:Q3E7B2	MI:0915	physical association	MI:0006	anti bait coip	24942160	IM-23526-4	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:Q5TC12	MI:0407	direct interaction	MI:0018	2 hybrid	11410595	IM-19049-2	1	1	1
+

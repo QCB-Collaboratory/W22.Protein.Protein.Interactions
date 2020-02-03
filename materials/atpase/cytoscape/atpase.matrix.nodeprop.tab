@@ -1,0 +1,74 @@
+#acc	label	type	taxid	taxon_label	taxon_name	gene
+uniprotkb:P21306	atp5e_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	ATP15	
+uniprotkb:Q8N5M1	atpf2_human	protein	9606	human	Homo sapiens	ATPAF2	
+uniprotkb:P38633	med31_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	SOH1	
+uniprotkb:P40576	yiu4_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)		
+uniprotkb:P18239	adt2_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	PET9	
+uniprotkb:P25705	atpa_human	protein	9606	human	Homo sapiens	ATP5A1	
+uniprotkb:P37267	cbp4_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	CBP4	
+uniprotkb:P04037	cox4_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	COX4	
+uniprotkb:P39940	rsp5_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	RSP5	
+uniprotkb:P38077	atpg_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	ATP3	
+uniprotkb:P08678	cyaa_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	CYR1	
+uniprotkb:P36147	pam17_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	PAM17	
+uniprotkb:P09457	atpo_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	ATP5	
+uniprotkb:P09435	hsp73_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	SSA3	
+uniprotkb:P30902	atp7_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	ATP7	
+uniprotkb:Q06213	med10_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	NUT2	
+uniprotkb:P53114	med5_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	NUT1	
+uniprotkb:Q3E7B2	coa3_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	COA3	
+uniprotkb:P00856	atp8_yeast	protein	559292	yeast	Saccharomyces cerevisiae	ATP8	
+uniprotkb:Q12343	med4_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	MED4	
+uniprotkb:P07257	qcr2_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	QCR2	
+uniprotkb:P06576	atpb_human	protein	9606	human	Homo sapiens	ATP5B	
+uniprotkb:P48558	bxi1_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	BXI1	
+uniprotkb:P02829	hsp82_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	HSP82	
+uniprotkb:Q02888	aim43_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	AIM43	
+uniprotkb:Q12165	atpd_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	ATP16	
+uniprotkb:P32897	tim23_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	TIM23	
+uniprotkb:P07143	cy1_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	CYT1	
+uniprotkb:P00854	atp6_yeast	protein	559292	yeast	Saccharomyces cerevisiae	ATP6	
+uniprotkb:P34162	med20_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	SRB2	
+uniprotkb:Q06405	atpk_yeast	protein	559292	yeast	Saccharomyces cerevisiae	ATP17	
+uniprotkb:P02994	ef1a_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	TEF1	
+uniprotkb:P25046	med19_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	ROX3	
+uniprotkb:Q9UHV7	med13_human	protein	9606	human	Homo sapiens	MED13	
+uniprotkb:P33308	med9_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	CSE2	
+uniprotkb:P23641	mpcp_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	MIR1	
+uniprotkb:P04840	vdac1_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	POR1	
+uniprotkb:P38304	med8_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	MED8	
+uniprotkb:P00747	plmn_human	protein	9606	human	Homo sapiens	PLG	
+uniprotkb:P10174	cox7_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	COX7	
+uniprotkb:Q12124	med2_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	MED2	
+uniprotkb:P05626	atpf_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	ATP4	
+uniprotkb:P39073	ssn3_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	SSN3	
+uniprotkb:P47822	med21_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	SRB7	
+uniprotkb:P42949	tim16_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	PAM16	
+uniprotkb:P32570	med22_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	SRB6	
+uniprotkb:P21560	cbp3_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	CBP3	
+uniprotkb:P19659	med15_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	GAL11	
+uniprotkb:P00830	atpb_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	ATP2	
+uniprotkb:P36955	pedf_human	protein	9606	human	Homo sapiens	SERPINF1	
+uniprotkb:P50277	bioa_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	BIO3	
+uniprotkb:P32259	med16_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	SIN4	
+uniprotkb:P07251	atpa_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	ATP1	
+uniprotkb:Q01852	tim44_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	TIM44	
+uniprotkb:P05317	rla0_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	RPP0	
+uniprotkb:Q07817-1	q07817-1	protein	9606	human	Homo sapiens	BCL2L1	
+uniprotkb:Q99278	med11_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	MED11	
+uniprotkb:Q12349	atp14_yeast	protein	559292	yeast	Saccharomyces cerevisiae	ATP14	
+uniprotkb:Q12321	med1_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	MED1	
+uniprotkb:P19263	med14_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	RGR1	
+uniprotkb:P32335	mss51_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	MSS51	
+uniprotkb:P38782	med6_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	MED6	
+uniprotkb:Q93074	med12_human	protein	9606	human	Homo sapiens	MED12	
+uniprotkb:Q5TC12	atpf1_human	protein	9606	human	Homo sapiens	ATPAF1	
+uniprotkb:P81450	atp18_yeast	protein	559292	yeast	Saccharomyces cerevisiae	ATP18	
+uniprotkb:P00410	cox2_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	COX2	
+uniprotkb:P07256	qcr1_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	COR1	
+uniprotkb:Q08278	med7_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	MED7	
+uniprotkb:P32585	med18_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	SRB5	
+uniprotkb:P07253	cbp6_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	CBP6	
+uniprotkb:P40356	med3_yeast	protein	559292	yeast	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	PGD1	
+uniprotkb:P61829	atp9_yeast	protein	559292	yeast	Saccharomyces cerevisiae	OLI1	
+

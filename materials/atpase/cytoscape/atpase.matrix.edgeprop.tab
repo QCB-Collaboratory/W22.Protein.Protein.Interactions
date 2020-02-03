@@ -1,0 +1,242 @@
+#acc	type_id	type_name	method_id	method_name	pmid	imexid	method_count	pmid_count	imexid_count
+uniprotkb:P00856 (pp) uniprotkb:P30902	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P00830 (pp) uniprotkb:P07256	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P00856 (pp) uniprotkb:P38077	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P00856 (pp) uniprotkb:Q12165	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P07257 (pp) uniprotkb:P23641	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P04840 (pp) uniprotkb:P09435	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P09457 (pp) uniprotkb:Q06405	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P00856 (pp) uniprotkb:Q06405	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P21306 (pp) uniprotkb:Q06405	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P07143 (pp) uniprotkb:Q01852	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P81450	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P38077 (pp) uniprotkb:P81450	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P40576 (pp) uniprotkb:Q12165	MI:0915	physical association	MI:0096	pull down	24942160	IM-23526-2	1	1	1
+uniprotkb:P00854 (pp) uniprotkb:P21306	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P32585 (pp) uniprotkb:P33308	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P61829	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P05626 (pp) uniprotkb:P40576	MI:0915	physical association	MI:0096	pull down	24942160	IM-23526-2	1	1	1
+uniprotkb:P32897 (pp) uniprotkb:P36147	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P21560 (pp) uniprotkb:P40576	MI:0915|MI:0915	physical association|physical association	MI:0096|MI:0007	pull down|anti tag coip	24942160|24942160	IM-23526-2|IM-23526-3	2	1	2
+uniprotkb:P81450 (pp) uniprotkb:Q12349	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P18239	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P10174 (pp) uniprotkb:P36147	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P00410 (pp) uniprotkb:P04840	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:Q5TC12	MI:0407	direct interaction	MI:0018	2 hybrid	11410595	IM-19049-2	1	1	1
+uniprotkb:P07251 (pp) uniprotkb:Q02888	MI:0915	physical association	MI:0096	pull down	24942160	IM-23526-8	1	1	1
+uniprotkb:P38077 (pp) uniprotkb:P61829	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P05626 (pp) uniprotkb:P21306	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P00854 (pp) uniprotkb:P00856	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P25046 (pp) uniprotkb:P32585	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P07251 (pp) uniprotkb:P42949	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P21306 (pp) uniprotkb:Q12349	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P32585 (pp) uniprotkb:Q12343	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P07256 (pp) uniprotkb:P48558	MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association	MI:0007|MI:0007|MI:0007|MI:0007	anti tag coip|anti tag coip|anti tag coip|anti tag coip	21673659|21673659|21673659|21673659	IM-15826-3|IM-15826-3|IM-15826-2|IM-15826-2	1	1	2
+uniprotkb:P00854 (pp) uniprotkb:P38077	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P09457 (pp) uniprotkb:Q12165	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P32585 (pp) uniprotkb:Q06213	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P07251 (pp) uniprotkb:Q12165	MI:0915|MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association|physical association	MI:0410|MI:0071|MI:0107|MI:0107|MI:0405	electron tomog|molecular sieving|spr|spr|competition binding	29650704|20412062|20412062|20412062|20412062	IM-27506-1|IM-15707-2|IM-15707-3|IM-15707-4|IM-15707-5	4	2	5
+uniprotkb:P00830 (pp) uniprotkb:P07143	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P61829 (pp) uniprotkb:Q12349	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P00854 (pp) uniprotkb:Q06405	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P09435 (pp) uniprotkb:P23641	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P09457 (pp) uniprotkb:Q02888	MI:0915	physical association	MI:0096	pull down	24942160	IM-23526-8	1	1	1
+uniprotkb:P07251 (pp) uniprotkb:P81450	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P07257 (pp) uniprotkb:Q01852	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P02829 (pp) uniprotkb:P39940	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-2	1	1	1
+uniprotkb:P02829 (pp) uniprotkb:P48558	MI:0915|MI:0915	physical association|physical association	MI:0007|MI:0007	anti tag coip|anti tag coip	21673659|21673659	IM-15826-2|IM-15826-2	1	1	1
+uniprotkb:P07143 (pp) uniprotkb:P32897	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P00410 (pp) uniprotkb:P18239	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P32585 (pp) uniprotkb:P38782	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P07256 (pp) uniprotkb:P39940	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-2	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P04840	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P21306	MI:0915|MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association|physical association	MI:0410|MI:0071|MI:0107|MI:0107|MI:0405	electron tomog|molecular sieving|spr|spr|competition binding	29650704|20412062|20412062|20412062|20412062	IM-27506-1|IM-15707-2|IM-15707-3|IM-15707-4|IM-15707-5	4	2	5
+uniprotkb:P07256 (pp) uniprotkb:P50277	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P32585 (pp) uniprotkb:Q9UHV7	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P36147 (pp) uniprotkb:P42949	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:Q12165	MI:0915|MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association|physical association	MI:0410|MI:0071|MI:0107|MI:0107|MI:0405	electron tomog|molecular sieving|spr|spr|competition binding	29650704|20412062|20412062|20412062|20412062	IM-27506-1|IM-15707-2|IM-15707-3|IM-15707-4|IM-15707-5	4	2	5
+uniprotkb:P07257 (pp) uniprotkb:P32897	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P00856 (pp) uniprotkb:P09457	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P04840 (pp) uniprotkb:P07256	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P00854 (pp) uniprotkb:P61829	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P21306 (pp) uniprotkb:P38077	MI:0915|MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association|physical association	MI:0410|MI:0071|MI:0107|MI:0107|MI:0405	electron tomog|molecular sieving|spr|spr|competition binding	29650704|20412062|20412062|20412062|20412062	IM-27506-1|IM-15707-2|IM-15707-3|IM-15707-4|IM-15707-5	4	2	5
+uniprotkb:P38077 (pp) uniprotkb:P40576	MI:0915	physical association	MI:0096	pull down	24942160	IM-23526-2	1	1	1
+uniprotkb:P07251 (pp) uniprotkb:P09457	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P04037 (pp) uniprotkb:P50277	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P32897 (pp) uniprotkb:P42949	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P00856 (pp) uniprotkb:P07251	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P32585 (pp) uniprotkb:P53114	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P08678 (pp) uniprotkb:P32585	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P00410 (pp) uniprotkb:P09435	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P04037 (pp) uniprotkb:P07257	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P05626 (pp) uniprotkb:Q12165	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P10174 (pp) uniprotkb:P42949	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P05626 (pp) uniprotkb:P81450	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P00830 (pp) uniprotkb:P00854	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P00854 (pp) uniprotkb:P05626	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P00747 (pp) uniprotkb:P00830	MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association	MI:0107|MI:0107|MI:0405|MI:0405	spr|spr|competition binding|competition binding	20412062|20412062|20412062|20412062	IM-15707-4|IM-15707-4|IM-15707-5|IM-15707-5	2	1	2
+uniprotkb:P32585 (pp) uniprotkb:P47822	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P05626	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P21306 (pp) uniprotkb:P36955	MI:0915|MI:0915|MI:0915	physical association|physical association|physical association	MI:0071|MI:0107|MI:0107	molecular sieving|spr|spr	20412062|20412062|20412062	IM-15707-2|IM-15707-3|IM-15707-3	2	1	2
+uniprotkb:P07257 (pp) uniprotkb:P50277	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P48558 (pp) uniprotkb:Q07817-1	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-1	1	1	1
+uniprotkb:P04840 (pp) uniprotkb:P50277	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P04840 (pp) uniprotkb:P07257	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P07256 (pp) uniprotkb:P09435	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P07251 (pp) uniprotkb:P30902	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P21306 (pp) uniprotkb:Q12165	MI:0915|MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association|physical association	MI:0410|MI:0071|MI:0107|MI:0107|MI:0405	electron tomog|molecular sieving|spr|spr|competition binding	29650704|20412062|20412062|20412062|20412062	IM-27506-1|IM-15707-2|IM-15707-3|IM-15707-4|IM-15707-5	4	2	5
+uniprotkb:P00747 (pp) uniprotkb:P21306	MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association	MI:0107|MI:0107|MI:0405|MI:0405	spr|spr|competition binding|competition binding	20412062|20412062|20412062|20412062	IM-15707-4|IM-15707-4|IM-15707-5|IM-15707-5	2	1	2
+uniprotkb:P38077 (pp) uniprotkb:Q12349	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P02829 (pp) uniprotkb:P07256	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-2	1	1	1
+uniprotkb:P09457 (pp) uniprotkb:P30902	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P04037	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P32585 (pp) uniprotkb:P38077	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P05626 (pp) uniprotkb:P09457	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P32585 (pp) uniprotkb:P34162	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P32897	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P07143 (pp) uniprotkb:P42949	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P00854 (pp) uniprotkb:P07251	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P61829 (pp) uniprotkb:Q12165	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P00856 (pp) uniprotkb:P21306	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P07143 (pp) uniprotkb:P36147	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P09457	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P30902 (pp) uniprotkb:P40576	MI:0915	physical association	MI:0096	pull down	24942160	IM-23526-2	1	1	1
+uniprotkb:P07143 (pp) uniprotkb:P07257	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P10174 (pp) uniprotkb:P32897	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P04037 (pp) uniprotkb:P23641	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P04037 (pp) uniprotkb:P18239	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P19263 (pp) uniprotkb:P32585	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P32585 (pp) uniprotkb:P38633	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P07256 (pp) uniprotkb:P23641	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P06576 (pp) uniprotkb:Q5TC12	MI:0407	direct interaction	MI:0018	2 hybrid	11410595	IM-19049-1	1	1	1
+uniprotkb:P61829 (pp) uniprotkb:P81450	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P04840 (pp) uniprotkb:P48558	MI:0915|MI:0915	physical association|physical association	MI:0007|MI:0007	anti tag coip|anti tag coip	21673659|21673659	IM-15826-3|IM-15826-3	1	1	1
+uniprotkb:P23641 (pp) uniprotkb:P50277	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P04037 (pp) uniprotkb:P07256	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P30902 (pp) uniprotkb:P38077	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P18239 (pp) uniprotkb:P50277	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:Q01852	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P32585 (pp) uniprotkb:Q12124	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P07251 (pp) uniprotkb:P36955	MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association	MI:0071|MI:0071|MI:0107|MI:0107	molecular sieving|molecular sieving|spr|spr	20412062|20412062|20412062|20412062	IM-15707-1|IM-15707-2|IM-15707-3|IM-15707-3	2	1	3
+uniprotkb:P32585 (pp) uniprotkb:Q99278	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P09435 (pp) uniprotkb:P50277	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P07143 (pp) uniprotkb:P10174	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P10174 (pp) uniprotkb:Q01852	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P32585 (pp) uniprotkb:P39073	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:Q06405	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P05317 (pp) uniprotkb:P32585	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P00410 (pp) uniprotkb:P04037	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P09457 (pp) uniprotkb:P61829	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P04840 (pp) uniprotkb:P23641	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P61829 (pp) uniprotkb:Q06405	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P00830 (pp) uniprotkb:P30902	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P00856 (pp) uniprotkb:Q12349	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P07251 (pp) uniprotkb:Q01852	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P23641 (pp) uniprotkb:P48558	MI:0915|MI:0915	physical association|physical association	MI:0007|MI:0007	anti tag coip|anti tag coip	21673659|21673659	IM-15826-3|IM-15826-3	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P10174	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P09457 (pp) uniprotkb:P21306	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P48558	MI:0915|MI:0915	physical association|physical association	MI:0007|MI:0007	anti tag coip|anti tag coip	21673659|21673659	IM-15826-3|IM-15826-3	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P36147	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:Q12349	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P07251 (pp) uniprotkb:P21306	MI:0915|MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association|physical association	MI:0410|MI:0071|MI:0107|MI:0107|MI:0405	electron tomog|molecular sieving|spr|spr|competition binding	29650704|20412062|20412062|20412062|20412062	IM-27506-1|IM-15707-2|IM-15707-3|IM-15707-4|IM-15707-5	4	2	5
+uniprotkb:P32259 (pp) uniprotkb:P32585	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P30902 (pp) uniprotkb:P61829	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P00410 (pp) uniprotkb:P07257	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P32585 (pp) uniprotkb:Q93074	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P00410 (pp) uniprotkb:P48558	MI:0915|MI:0915	physical association|physical association	MI:0007|MI:0007	anti tag coip|anti tag coip	21673659|21673659	IM-15826-3|IM-15826-3	1	1	1
+uniprotkb:P07251 (pp) uniprotkb:P10174	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P32570 (pp) uniprotkb:P32585	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P00747 (pp) uniprotkb:Q12165	MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association	MI:0107|MI:0107|MI:0405|MI:0405	spr|spr|competition binding|competition binding	20412062|20412062|20412062|20412062	IM-15707-4|IM-15707-4|IM-15707-5|IM-15707-5	2	1	2
+uniprotkb:P07257 (pp) uniprotkb:P36147	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P07256 (pp) uniprotkb:P07257	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:Q02888	MI:0915|MI:0915	physical association|physical association	MI:0007|MI:0096	anti tag coip|pull down	24942160|24942160	IM-23526-5|IM-23526-8	2	1	2
+uniprotkb:P02994 (pp) uniprotkb:P32585	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P07251 (pp) uniprotkb:P07257	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P23641	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P04037 (pp) uniprotkb:P09435	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P30902 (pp) uniprotkb:Q12165	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P07143 (pp) uniprotkb:P07251	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P81450 (pp) uniprotkb:Q06405	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P05626 (pp) uniprotkb:P38077	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P07257	MI:0403|MI:0915	colocalization|physical association	MI:0028|MI:0007	solution sedimentati|anti tag coip	16997298|21673659	IM-11451-1|IM-15826-3	2	2	2
+uniprotkb:P09457 (pp) uniprotkb:P38077	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P00854 (pp) uniprotkb:Q12165	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P07256 (pp) uniprotkb:P18239	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P32897 (pp) uniprotkb:Q01852	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P36955 (pp) uniprotkb:P38077	MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association	MI:0071|MI:0071|MI:0107|MI:0107	molecular sieving|molecular sieving|spr|spr	20412062|20412062|20412062|20412062	IM-15707-1|IM-15707-2|IM-15707-3|IM-15707-3	2	1	3
+uniprotkb:P25705 (pp) uniprotkb:Q8N5M1	MI:0407	direct interaction	MI:0018	2 hybrid	11410595	IM-19049-3	1	1	1
+uniprotkb:P39940 (pp) uniprotkb:P48558	MI:0915|MI:0915	physical association|physical association	MI:0007|MI:0007	anti tag coip|anti tag coip	21673659|21673659	IM-15826-2|IM-15826-2	1	1	1
+uniprotkb:P09457 (pp) uniprotkb:Q12349	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P00410 (pp) uniprotkb:P50277	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P05626 (pp) uniprotkb:Q06405	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P38077 (pp) uniprotkb:Q12165	MI:0915|MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association|physical association	MI:0410|MI:0071|MI:0107|MI:0107|MI:0405	electron tomog|molecular sieving|spr|spr|competition binding	29650704|20412062|20412062|20412062|20412062	IM-27506-1|IM-15707-2|IM-15707-3|IM-15707-4|IM-15707-5	4	2	5
+uniprotkb:P00410 (pp) uniprotkb:P07256	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P38077 (pp) uniprotkb:Q06405	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P32585 (pp) uniprotkb:Q08278	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P00856 (pp) uniprotkb:P81450	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P05626 (pp) uniprotkb:P30902	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P40576 (pp) uniprotkb:Q02888	MI:0915|MI:0915|MI:0407|MI:0915	physical association|physical association|direct interaction|physical association	MI:0096|MI:0007|MI:0096|MI:0096	pull down|anti tag coip|pull down|pull down	24942160|24942160|24942160|24942160	IM-23526-2|IM-23526-3|IM-23526-7|IM-23526-6	2	1	4
+uniprotkb:P30902 (pp) uniprotkb:P81450	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P19659 (pp) uniprotkb:P32585	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P50277	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P07257 (pp) uniprotkb:P10174	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P81450 (pp) uniprotkb:Q12165	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P07257 (pp) uniprotkb:P42949	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P32585 (pp) uniprotkb:Q12321	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P32585 (pp) uniprotkb:P38304	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P21306 (pp) uniprotkb:P61829	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P00856 (pp) uniprotkb:P61829	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P07251 (pp) uniprotkb:P40576	MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association	MI:0096|MI:0096|MI:0007|MI:0096	pull down|pull down|anti tag coip|pull down	24942160|24942160|24942160|24942160	IM-23526-1|IM-23526-2|IM-23526-3|IM-23526-9	2	1	4
+uniprotkb:P00854 (pp) uniprotkb:P09457	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P07251 (pp) uniprotkb:P61829	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P00747 (pp) uniprotkb:P07251	MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association	MI:0107|MI:0107|MI:0405|MI:0405	spr|spr|competition binding|competition binding	20412062|20412062|20412062|20412062	IM-15707-4|IM-15707-4|IM-15707-5|IM-15707-5	2	1	2
+uniprotkb:P00830 (pp) uniprotkb:P09435	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P36147 (pp) uniprotkb:Q01852	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P07257 (pp) uniprotkb:P18239	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P07251 (pp) uniprotkb:Q06405	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P30902 (pp) uniprotkb:Q06405	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P09457 (pp) uniprotkb:P40576	MI:0915|MI:0915|MI:0915	physical association|physical association|physical association	MI:0096|MI:0007|MI:0096	pull down|anti tag coip|pull down	24942160|24942160|24942160	IM-23526-2|IM-23526-3|IM-23526-9	2	1	3
+uniprotkb:P00830 (pp) uniprotkb:P07251	MI:0403|MI:0915|MI:0915|MI:0915|MI:0915|MI:0915|MI:0915	colocalization|physical association|physical association|physical association|physical association|physical association|physical association	MI:0028|MI:0410|MI:0071|MI:0071|MI:0107|MI:0107|MI:0405	solution sedimentati|electron tomog|molecular sieving|molecular sieving|spr|spr|competition binding	16997298|29650704|20412062|20412062|20412062|20412062|20412062	IM-11451-1|IM-27506-1|IM-15707-1|IM-15707-2|IM-15707-3|IM-15707-4|IM-15707-5	5	3	7
+uniprotkb:Q06405 (pp) uniprotkb:Q12349	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P36955	MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association	MI:0071|MI:0071|MI:0107|MI:0107	molecular sieving|molecular sieving|spr|spr	20412062|20412062|20412062|20412062	IM-15707-1|IM-15707-2|IM-15707-3|IM-15707-3	2	1	3
+uniprotkb:Q12165 (pp) uniprotkb:Q12349	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P48558 (pp) uniprotkb:P50277	MI:0915|MI:0915	physical association|physical association	MI:0007|MI:0007	anti tag coip|anti tag coip	21673659|21673659	IM-15826-3|IM-15826-3	1	1	1
+uniprotkb:P04840 (pp) uniprotkb:P18239	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P09435 (pp) uniprotkb:P18239	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P04037 (pp) uniprotkb:P48558	MI:0915|MI:0915	physical association|physical association	MI:0007|MI:0007	anti tag coip|anti tag coip	21673659|21673659	IM-15826-3|IM-15826-3	1	1	1
+uniprotkb:P07251 (pp) uniprotkb:P36147	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P42949	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P00410 (pp) uniprotkb:P00830	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P21306 (pp) uniprotkb:P30902	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P42949 (pp) uniprotkb:Q01852	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P40576	MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association	MI:0096|MI:0096|MI:0007|MI:0096	pull down|pull down|anti tag coip|pull down	24942160|24942160|24942160|24942160	IM-23526-1|IM-23526-2|IM-23526-3|IM-23526-9	2	1	4
+uniprotkb:P09435 (pp) uniprotkb:P48558	MI:0915|MI:0915	physical association|physical association	MI:0007|MI:0007	anti tag coip|anti tag coip	21673659|21673659	IM-15826-3|IM-15826-3	1	1	1
+uniprotkb:P00747 (pp) uniprotkb:P38077	MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association	MI:0107|MI:0107|MI:0405|MI:0405	spr|spr|competition binding|competition binding	20412062|20412062|20412062|20412062	IM-15707-4|IM-15707-4|IM-15707-5|IM-15707-5	2	1	2
+uniprotkb:P04037 (pp) uniprotkb:P04840	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P07251 (pp) uniprotkb:P38077	MI:0915|MI:0915|MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association|physical association|physical association	MI:0410|MI:0071|MI:0071|MI:0107|MI:0107|MI:0405	electron tomog|molecular sieving|molecular sieving|spr|spr|competition binding	29650704|20412062|20412062|20412062|20412062|20412062	IM-27506-1|IM-15707-1|IM-15707-2|IM-15707-3|IM-15707-4|IM-15707-5	4	2	6
+uniprotkb:P07251 (pp) uniprotkb:P32897	MI:0403	colocalization	MI:0028	solution sedimentati	16997298	IM-11451-1	1	1	1
+uniprotkb:P00854 (pp) uniprotkb:P30902	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P32335 (pp) uniprotkb:Q3E7B2	MI:0915	physical association	MI:0006	anti bait coip	24942160	IM-23526-4	1	1	1
+uniprotkb:P05626 (pp) uniprotkb:P61829	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P07251 (pp) uniprotkb:Q12349	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P37267 (pp) uniprotkb:P40576	MI:0915	physical association	MI:0096	pull down	24942160	IM-23526-2	1	1	1
+uniprotkb:P07257 (pp) uniprotkb:P09435	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P07253 (pp) uniprotkb:P40576	MI:0915	physical association	MI:0096	pull down	24942160	IM-23526-2	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P38077	MI:0915|MI:0915|MI:0915|MI:0915|MI:0915|MI:0915	physical association|physical association|physical association|physical association|physical association|physical association	MI:0410|MI:0071|MI:0071|MI:0107|MI:0107|MI:0405	electron tomog|molecular sieving|molecular sieving|spr|spr|competition binding	29650704|20412062|20412062|20412062|20412062|20412062	IM-27506-1|IM-15707-1|IM-15707-2|IM-15707-3|IM-15707-4|IM-15707-5	4	2	6
+uniprotkb:P00856 (pp) uniprotkb:P05626	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P36955 (pp) uniprotkb:Q12165	MI:0915|MI:0915|MI:0915	physical association|physical association|physical association	MI:0071|MI:0107|MI:0107	molecular sieving|spr|spr	20412062|20412062|20412062	IM-15707-2|IM-15707-3|IM-15707-3	2	1	2
+uniprotkb:P30902 (pp) uniprotkb:Q12349	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P00830 (pp) uniprotkb:P00856	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P07257 (pp) uniprotkb:P48558	MI:0915|MI:0915	physical association|physical association	MI:0007|MI:0007	anti tag coip|anti tag coip	21673659|21673659	IM-15826-3|IM-15826-3	1	1	1
+uniprotkb:P09457 (pp) uniprotkb:P81450	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P00854 (pp) uniprotkb:P81450	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P18239 (pp) uniprotkb:P23641	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+uniprotkb:P21306 (pp) uniprotkb:P81450	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P32585 (pp) uniprotkb:P40356	MI:0915	physical association	MI:0676	tap	19057509	IM-11673-1	1	1	1
+uniprotkb:P18239 (pp) uniprotkb:P48558	MI:0915|MI:0915	physical association|physical association	MI:0007|MI:0007	anti tag coip|anti tag coip	21673659|21673659	IM-15826-3|IM-15826-3	1	1	1
+uniprotkb:P05626 (pp) uniprotkb:P07251	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P00854 (pp) uniprotkb:Q12349	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:P05626 (pp) uniprotkb:Q12349	MI:0915	physical association	MI:0410	electron tomog	29650704	IM-27506-1	1	1	1
+uniprotkb:Q06405 (pp) uniprotkb:Q12165	MI:0915|MI:0915	physical association|physical association	MI:0410|MI:0410	electron tomog|electron tomog	29650704|29650704	IM-27506-1|IM-27506-3	1	1	2
+uniprotkb:P00410 (pp) uniprotkb:P23641	MI:0915	physical association	MI:0007	anti tag coip	21673659	IM-15826-3	1	1	1
+
